@@ -1,10 +1,10 @@
+#File to scrape English speaking reviews from 
+#https://www.tripadvisor.com/ShowUserReviews-g196638-d12232500-r541544545-Flixbus-Tourcoing_Nord_Hauts_de_France.html
+#for Flixbus and save it into a txt. The URLs of all the pages containing the reviews are in the separate urls.py file in a list
+
 import requests
 from bs4 import BeautifulSoup as Soup
 from urls import urls as urls
-
-
-#page = requests.get("https://www.tripadvisor.com/ShowUserReviews-g196638-d12232500-r541544545-Flixbus-Tourcoing_Nord_Hauts_de_France.html")
-
 
 def scrape(url):
 
@@ -24,6 +24,7 @@ def scrape(url):
 		review = {}
 		review['review'] = revDiv[i].find('p', class_='partial_entry')
 
+		#Finding what rating from 1-5 was given for the current review
 		if(revDiv[i].find('span', class_='ui_bubble_rating bubble_10')):
 			review['stars'] = 1
 		
@@ -39,16 +40,18 @@ def scrape(url):
 		if(revDiv[i].find('span', class_='ui_bubble_rating bubble_50')):
 			review['stars'] = 5
 		
-
 		reviews.append(review)
 
 #A list of dictionaries containing all the reviews and the corresponding ratings
 reviews = []
 
+#Getting the reviews and ratings for all the URLs
 for i in range(0, len(urls)):
 	scrape(urls[i])
 
+#Saving the result into a txt
 thefile = open('reviews.txt', 'w')
+
 for item in reviews:
   thefile.write("%s\n" % item)
 
