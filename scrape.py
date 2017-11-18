@@ -5,6 +5,23 @@
 import requests
 from bs4 import BeautifulSoup as Soup
 from urls import urls as urls
+from HTMLParser import HTMLParser
+
+#From https://stackoverflow.com/questions/753052/strip-html-from-strings-in-python
+#To strip the HTML tags from the text before saving it into a text file
+class MLStripper(HTMLParser):
+    def __init__(self):
+        self.reset()
+        self.fed = []
+    def handle_data(self, d):
+        self.fed.append(d)
+    def get_data(self):
+        return ''.join(self.fed)
+
+def strip_tags(html):
+    s = MLStripper()
+    s.feed(html)
+    return s.get_data()
 
 def scrape(url):
 
@@ -22,7 +39,7 @@ def scrape(url):
 
 	for i in range(0, len(revDiv)):
 		review = {}
-		review['review'] = revDiv[i].find('p', class_='partial_entry')
+		review['review'] = strip_tags(str(revDiv[i].find('p', class_='partial_entry')))
 
 		#Finding what rating from 1-5 was given for the current review
 		if(revDiv[i].find('span', class_='ui_bubble_rating bubble_10')):
