@@ -21,8 +21,10 @@ for i in range(67):
         num_ratings.append(rate)
     
     for i in range(len(reviews)):
-        f.write(num_ratings[i] + ' **** '+  reviews[i].text)
-        f.write('\r\n')
+        dict = {}
+        dict['review'] = reviews[i].text.strip()
+        dict['stars'] = num_ratings[i]
+        f.write('%s\n' % dict)
 f.close()
 
 #for r in reviews:
