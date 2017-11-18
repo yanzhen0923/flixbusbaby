@@ -4,7 +4,8 @@
 
 import requests
 from bs4 import BeautifulSoup as Soup
-from urls import urls as urls
+from urls import urls_en as urls
+#from urls import urls_it as it
 from HTMLParser import HTMLParser
 
 #From https://stackoverflow.com/questions/753052/strip-html-from-strings-in-python
@@ -66,9 +67,17 @@ reviews = []
 for i in range(0, len(urls)):
 	scrape(urls[i])
 
+#Stupid italian version not working
+#for i in range(0, len(urls_it)):
+#	scrape(urls_it[i])
+
 #Saving the result into a txt
 thefile = open('reviews.txt', 'w')
+thefile2 = open('justreviews.txt', 'w')
+thefile3 = open('justratings.txt', 'w')
 
 for item in reviews:
   thefile.write("%s\n" % item)
+  thefile2.write("%s\n\n" % item['review'])
+  thefile3.write("%s\n" % item['stars'])
 
