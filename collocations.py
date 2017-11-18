@@ -6,15 +6,12 @@ import ast
 bigram_measures = nltk.collocations.BigramAssocMeasures()
 trigram_measures = nltk.collocations.TrigramAssocMeasures()
 
-
 with open('flixbus_review.txt') as f:
     lines = f.readlines()
 
-with open('two_words_word_1', 'a+') as f:
+with open('two_words_word_2.txt', 'a+') as f:
         
-
     tknzr = TweetTokenizer()
-    tmp = 'tmp.txt'
     i = 0
     for l in lines:
         i += 1
@@ -22,10 +19,12 @@ with open('two_words_word_1', 'a+') as f:
         dict_word = ast.literal_eval(l)
         res = tknzr.tokenize(dict_word['review'])
         two_words = ''
-        for i in range(len(res)):
-            if ((i & 1)):
-                two_words += (res[i - 1] + res[i] + ' ')
-        print(two_words)
+        for i in range(len(res) - 1):
+            if ((i & 1) == 0):
+                two_words += (res[i] + res[i + 1] + ' ')
+        dict = {'review': two_words, 'stars': dict_word['stars']}
+        f.write("%s\n" % dict)
+    f.close()
     # change this to read in your data
     # with open(tmp, 'w+') as fw:
     #    fw.write(dict_word['review'])

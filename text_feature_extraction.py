@@ -14,7 +14,7 @@ for line in lines:
     words = line.split()
     for r in words:
         if not r in stop_words:
-            appendFile.write(" "+r)
+            appendFile.write(r)
     appendFile.write("\n")
 appendFile.close()
 
