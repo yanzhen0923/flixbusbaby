@@ -2,11 +2,11 @@ import urllib.request
 
 from bs4 import BeautifulSoup
 
-f=open("data_trustpilot.txt", "a+")
+f = open("trustpilot.de.txt", "a+")
 
-base_url = 'https://de.trustpilot.com/review/flixbus.com?languages=all&page='
+base_url = 'https://de.trustpilot.com/review/flixbus.de?languages=all&page='
 
-for i in range(67):
+for i in range(125):
     req_url = base_url + str(i + 1)
     data_i = urllib.request.urlopen(req_url).read()
     print(i)

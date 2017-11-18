@@ -5,10 +5,10 @@ translator = Translator()
 #res = translator.translate('这个可以有')
 #print(res.text)
 
-with open('data_trustpilot.txt') as f:
+with open('trustpilot.de.txt') as f:
     lines = f.readlines()
 
-fw = open("trustpilot_english.txt", "a+")
+fw = open("trustpilot.de_english.txt", "a+")
 i = 0
 for l in lines:
     i += 1
