@@ -36,20 +36,35 @@ from collections import Counter
 ##END of irrelevant stuff##
 
 #Feature list expected by countWordOcc
-features = ["wifi", "driver", "toilet"]
+#features = ['wifi', 'driver', 'toilet', 'online', 'internet']
+text = open('supervised_training_data.txt').read()
+features = text.split(';')
 
 #Function to count the occurrence of a list of words in the data
 def countWordOcc(file, featureList):
+    
+    cnt = Counter()
+    words = re.findall('\w+', open(file).read().lower())
+    for word in words:
+        if word in featureList and len(word) > 1:
+            cnt[word] += 1
+        
+    #length = len(words)
+    average = 200000 / 3074
+    with open(file) as f:
+        for line_count, l in enumerate(f):
+            pass
+    line_count += 1
+    length = line_count * average
+    percent_cnt = Counter()
+    for word in featureList:
+        #print(cnt[word])
+        percentage = (cnt[word] / length) * 100
+        percent_cnt[word] = percentage
 
-	cnt = Counter()
-	words = re.findall('\w+', open(file).read().lower())
-
-	for word in words:
-		if word in featureList and len(word) > 1:
-			cnt[word] += 1
-
-	print cnt
+    print(cnt)
+    print(percent_cnt)
 
 
 
-countWordOcc("flixbus_review_rate_1.txt", features)
+countWordOcc("megabus.txt", features)
