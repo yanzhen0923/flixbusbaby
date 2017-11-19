@@ -1,14 +1,19 @@
 import urllib.request
 from bs4 import BeautifulSoup
 
-page = 1
+page = 35
 
-f = open("yelp_FlixBus_data.txt", "w")
+f = open("yelp_BoltBus_NewYork_data.txt", "w")
 
 # List of yelp urls to scrape
-url = 'https://www.yelp.com/biz/flixbus-m%C3%BCnchen'
+url_origin = 'https://www.yelp.com/biz/boltbus-new-york?'
 
 for i in range(page):
+    if i == 0:
+        url = url_origin + 'osq=bus'
+    else:
+        url = url_origin + 'start=' + str(20*i)
+
     data_i = urllib.request.urlopen(url).read()
     soup_i = BeautifulSoup(data_i, 'lxml')
 

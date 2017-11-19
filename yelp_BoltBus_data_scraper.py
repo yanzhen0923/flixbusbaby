@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 
 page = 1
 
-f = open("yelp_BoltBus_data.txt", "a+")
+f = open("yelp_BoltBus_SanFrancisco_data.txt", "w")
 
 # List of yelp urls to scrape
 url = 'https://www.yelp.com/biz/boltbus-san-francisco-2?osq=bus'
@@ -11,6 +11,20 @@ url = 'https://www.yelp.com/biz/boltbus-san-francisco-2?osq=bus'
 for i in range(page):
     data_i = urllib.request.urlopen(url).read()
     soup_i = BeautifulSoup(data_i, 'lxml')
+
+    # get number of likes
+    likes = soup_i.findAll("span", {"class": 'count'})
+    num_likes = []
+    for r in likes:
+        # find in string the indication in order to find the rating number
+        num = str(r).find('">')
+        # rating number
+        if str(r)[int(num+2)] == '<':
+            rate = str(0)
+        else:
+            rate = str(r)[int(num+2)]
+        # add rating to list
+        num_likes.append(rate)
 
     # get reviews in a list
     reviews = soup_i.findAll("div", {"class": 'review-content'})
@@ -27,10 +41,8 @@ for i in range(page):
     for r in ratings:
         # find in string the indication in order to find the rating number
         num = str(r).find('title="')
-        # rating number in format x.x
+        # rating number
         rate = str(r)[int(num+7)]
-        rate = rate + str(r)[int(num+8)]
-        rate = rate + str(r)[int(num+9)]
         # add rating to list
         num_ratings.append(rate)
     # remove the first rating, cause its something else
@@ -44,6 +56,7 @@ for i in range(page):
         dict = {}
         dict['review'] = text_reviews[i]
         dict['stars'] = num_ratings[i]
+        dict['usefull_likes'] = num_likes[i]
         f.write('%s\n' % dict)
 
 f.close()
