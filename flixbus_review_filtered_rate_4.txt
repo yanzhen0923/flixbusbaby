@@ -1,0 +1,1019 @@
+ {'review': 'The ride went well. I little contact service. The buses leave punctually. Am satisfied', 'stars': '4'}
+ {'review': 'Very cheap, comfortable, punctual. Unfortunately, soap toilet hand dryer work. For star deduction.', 'stars': '4'}
+ {'review': 'Everything without special problems umd circumstances. Very friendly staff.', 'stars': '4'}
+ {'review': 'Real nice, cheap good bus. Was pleasant ride', 'stars': '4'}
+ {'review': 'Once again, FlixBus ride behind Munich Freiburg I felt ride pleasant entertaining. Although bus actually fully occupied, I lucky, back forth longer distances 2 seats have, always nice. But seat neighbor, small handle seat corridor slightly outwards, distance neighbors slightly larger. The driver friendly competent. The route Lake Constance Black Forest always beautiful varied. Departure arrival times largely punctual. All all, ride FlixBus enjoyed, long necessarily want criticize something.FlixBus company I recommend time.', 'stars': '4'}
+ {'review': 'You think beforehand want go otherwise fall cancellation fees want change departure time ..', 'stars': '4'}
+ {'review': 'If on-board toilet better condition well environment area, I would given top rating 5 stars, otherwise, everything highest satisfaction. A friendly helpful driver, clear understandable announcements route expected arrival times stations.', 'stars': '4'}
+ {'review': 'Am Berlin Regensburg 6 hours TOP I Regensburg Berlin day huge detour 11 hours Prague best route I think pity', 'stars': '4'}
+ {'review': 'Pleasant, inexpensive travel, CO2-neutral, even bike transport whole without bike bag, break management. Driving time requirements entry logistics still need improvement.', 'stars': '4'}
+ {'review': 'My first ride long-distance bus. I chosen far cheapest option, relatively short notice (booking 2 weeks before) come Paris. The bus punctual, drivers friendly. The seats reasonably comfortable 8-hour drive (take pillows!). Reckless fellow travelers exhausting - noisy conversations phone calls middle night real. For snoring anything, neighbors course really disturbing. Fortunately, I Ohropax here. Positive, I found many stops route Münster-Paris. In summary: Probably easiest way travel, cheap. I would book Flixbus, much cheaper flight train ride.', 'stars': '4'}
+ {'review': 'Prima ride bus could cleaner inside', 'stars': '4'}
+ {'review': 'Excellent! Comfortable, safe, polite punctual!', 'stars': '4'}
+ {'review': 'Very competent customer service customer-oriented issued us voucher replacement trip without discussion, missed bus. Drive pleasant. Unfortunately internet exhausted us short time streaming sites blocked.', 'stars': '4'}
+ {'review': 'Gladly again', 'stars': '4'}
+ {'review': 'All all, good alternative train. Punctuality worked night trip. That always so, must clear. The price advantage clearly Flixbus.', 'stars': '4'}
+ {'review': 'Punctuality perfect. In ride Berlin-Szczecin drivers Polish. The outlet place work', 'stars': '4'}
+ {'review': 'Ick pleased amazed short-term journey comfortable booking system really good price range. What could Internet flixbus Wi-Fi could improved could use WhatsApp smartphone. Would fun driving I could chatted.', 'stars': '4'}
+ {'review': 'Booking selection worked well. Unfortunately, payment via smartphone work tenth attempt. The charge accepted. Cause unknown me. I dnan ditched Paypal.', 'stars': '4'}
+ {'review': 'This time congestion 1.5 hours late! The drivers could friendly part. The USB port backrest work. On whole, return trip relaxed.', 'stars': '4'}
+ {'review': 'Bus comfortable, clean equipped USB plug. Drivers friendly multilingual. Ride quiet, little late, placed request extra Pipipause. Connection bus Prague also delayed, expect bus Berlin Hamburg. The Flixbus SMS service always kept date. I rebook trip advance, excellent. Flexibus recommended.', 'stars': '4'}
+ {'review': "If unforeseen things happen (in case, motorway detour large-scale detour), driver immediately inform travelers everyone react accordingly ... I'll go back, that's clear ... ...", 'stars': '4'}
+ {'review': 'Price-performance tiptop! Punctuality could better. Wi-Fi password protected, know get password otherwise.', 'stars': '4'}
+ {'review': 'On time, convenient cheap. Empty week week. Air bit tired start journey.', 'stars': '4'}
+ {'review': 'Very nice bus staff, everything clean tidy, punctual. Only counter staff unfriendly others.8045432481', 'stars': '4'}
+ {'review': 'If I known flixbus before, I would ridden often. Please, advertise more', 'stars': '4'}
+ {'review': 'Everything satisfaction except late departure Frankfurt', 'stars': '4'}
+ {'review': 'The negative point delay. Everything else great. V. A. Super friendly bus driver!', 'stars': '4'}
+ {'review': "I drove Munich Budapest. About 7.5 hours. I'm happy ride Flixbus. On one hand, seats comfortable, quiet bus clean. There garbage bags available disposal garbage understood. These things presupposed bus ride middle class company. I enthusiastic beginning ride, I read internet free Wi-Fi addition enough power outlets I could enjoy relaxed ride. What I realize 150 megabytes data available entire trip. How please rich? Nice good free Wi-Fi 150Mb? That's ridiculous. This clearly more", 'stars': '4'}
+ {'review': 'The trips FlixBus always pleasant relaxing. Due congestion construction sites, delays occur quickly, always plan little time change, opinion absolutely understandable. FlixBus company unbeatable prices I recommend anyone use it! Why So 4 stars? : There problems last bookings buying ticket Internet - via PayPal I could book trips process confusing. Unfortunately, Internet work well either - one trip I hardly problems, another I able log wifi ... could still improvement. Conclusion: All all, FlixBus one good, trustworthy company makes possible everyone, even little money, travel!', 'stars': '4'}
+ {'review': 'Despite heavy puncture full speed, level-headed, unflawing driver kept passengers date cool. The check-in check-out simple uncomplicated, well cancellations; The low cancellation fee commendable! The toilet unfortunately way unfortunately limited usable. Fan light seat unfortunately functionless.', 'stars': '4'}
+ {'review': 'I would go back Flixbusses anytime, pleasant tour cause problems. Despite minor delays travel time completely acceptable without complaint. Unfortunately, caught row seats socket clamped us, enjoyable. And toilets could functional less fragrant .... Still great ride gladly again!', 'stars': '4'}
+ {'review': 'Good fluid driving. Bus left 10 minutes later delay destination 25 Minuten.Busfahrer drove well, friendliness different. Passengers included almost every stop service tasks. That garbage properly disposed of, yes I understand.But threat someone city uses toilet keeps bus toilet free again, I think dreist.Desweiteren guests announcement almost every stop directly " asked "to turn reading lights - fold armrests - push seats together - upright seats - fold footrests - raise curtains - put curtains bracketsMy opinion service tasks bus company undertake (Except garbage disposal Naturally).', 'stars': '4'}
+ {'review': 'everything good except toilets', 'stars': '4'}
+ {'review': '35 minutes late departure point (Dreden) timely informed SMS. Nevertheless arrived Budapest almost time. Definitely recommendable, I use Flixbus again.', 'stars': '4'}
+ {'review': 'My complaint actually smell place, I thought something wrong venting toilet.', 'stars': '4'}
+ {'review': 'clean, professional', 'stars': '4'}
+ {'review': 'Booking platform error-prone. Driver start unfriendly cumbersome. Otherwise current conditions (storm Xavier) ok.', 'stars': '4'}
+ {'review': 'The alternative train. Inexpensive arrive directly.', 'stars': '4'}
+ {'review': 'My telephone inquiries always friendly. However, known all, book ticket Magdeburg.', 'stars': '4'}
+ {'review': 'The bus ride liked. We arrived time bus modern clean. Negative sorry booked couple, could sit next other.', 'stars': '4'}
+ {'review': 'The ride pleasant tour guides / drivers also friendly. However, bus wrong stop, I probably missed ride. So pay attention environment. Everything else top.', 'stars': '4'}
+ {'review': 'Very good. I think good cheap offer.', 'stars': '4'}
+ {'review': 'Cheap alternative car, train plane. However, compliance arrival time dependent traffic situation (traffic jams, police border controls). Therefore, specified time arrival necessarily reliable.', 'stars': '4'}
+ {'review': 'Safe, comfortable ride, drinks announcements, would 5 star rating.', 'stars': '4'}
+ {'review': 'We satisfied', 'stars': '4'}
+ {'review': 'If woman heavy luggage, must ask someone help inviting, driver nothing. He scans bookings drives.', 'stars': '4'}
+ {'review': "Everything good, punctuality always guaranteed. But that's every car driver, high traffic, traffic jam - calculable. But I know calculate that!", 'stars': '4'}
+ {'review': 'Very good ride time pleasant.', 'stars': '4'}
+ {'review': 'Great cheap way travel', 'stars': '4'}
+ {'review': 'Bus came 35min late informed. Price / performance however top', 'stars': '4'}
+ {'review': 'Ride pleasant, went fast problem-free. Only guy Check-Inn Vienna-Erdberg would like go course "How I handle freubdlich customers".', 'stars': '4'}
+ {'review': 'It quiet air conditioned bus - WC available. There possibility break. Delay total 30 minutes', 'stars': '4'}
+ {'review': 'Good service, easy booking late annoying', 'stars': '4'}
+ {'review': 'A little late arrival, nice staff', 'stars': '4'}
+ {'review': 'Unfortunately, information connection, I ask lines / bus drivers, switch Cologne / Bonn already (20 clock). Could, however, ride another line drove connection. Bus drivers friendly helpful.', 'stars': '4'}
+ {'review': 'Price - performance unbeatable, pleasant ride, little legroom (1.94m height)', 'stars': '4'}
+ {'review': 'Unfortunately delay early morning, properly driven, clean bus, everything okay great price.', 'stars': '4'}
+ {'review': 'Simple, uncomplicated, punctual, internet access work. But I definitely travel Flixbus again', 'stars': '4'}
+ {'review': 'No complaints bus comfortable bus drivers polite. Telephone communication colleague easy, understand German, helpful polite.', 'stars': '4'}
+ {'review': 'It pleasant journey time minute. Only working WLAN prevent five-star rating.', 'stars': '4'}
+ {'review': 'Definitely worth drive Flixbus. The bus drivers could bit friendlier passengers.', 'stars': '4'}
+ {'review': 'The bus clean bus drivers friendly, ride pleasant. The German bus drivers always explained stop toilet bus, buy snacks front, etc. always German English. The fact almost everyone two seats themselves, also enough space. It also good always two seats power outlet. In addition, even Wi-Fi course beneficial. What I personally like well, toilet break way 4 hours drive could small toilet bus. What also big plus trip flixbus half much train personally also pleasant, since pay attention whether place reserved constantly make room people space train had. Of course, often takes longer, I think accepted.', 'stars': '4'}
+ {'review': 'I would travel Flixbus again, I would want cleaner toilet.', 'stars': '4'}
+ {'review': 'I problems booking (several "unknown error" occurred). At 10th attempt, still worked :-) The settlement bus ride worked perfectly!', 'stars': '4'}
+ {'review': 'Inexpensive alternative train', 'stars': '4'}
+ {'review': 'Courteous humorous bus driver clean bus', 'stars': '4'}
+ {'review': 'On whole, I happy ride! Good price pleasant atmosphere. But still bit Whack.Da I drove Rijeka Vienna, ride long I noticed unpleasant things. I hardly slept night ride showering I slightly unpleasant body odor. Once I wanted get bus, I fell stairs unintentionally kicked girl. My neighbor, nice girl sweetened ride bit, wanted play "city, country, river", I really bad. Most time I drive, although I\'m pretty talkative person, I play "Silent Fir" quiet passengers wanted enjoy quiet ride. There also problem although seat reading light provided, fault was. Soon phone battery course charging cable gave ghost bus ride. The bus half hour late stood A1 traffic jam. At beginning ride I wanted sleep, I I said night little sleep. Unfortunately, fairly winding track time every time I nodded I almost fell hall every turn, I regretfully get window seat. Still, I could enjoy wonderful view neighbor, climbing bag time, slept time gave excellent view window. Very pleasant fact could adjust seats comfortable location. My travel companion Leo, however, enjoyed sitting alone claiming two seats himself. He curled fell asleep sweet honeybee chocolate coat two seats. When awoke massaged head, I also liked much. Since ride long made sympathetic bus driver regular sections 15min break time. It pleasant, bit chaotic ride I would go FlixBus again, I find train driving geiler.Lg Felicitas', 'stars': '4'}
+ {'review': 'I satisfied travel next day ☺', 'stars': '4'}
+ {'review': 'Super punctual really good value money! Was really clean, 4 *', 'stars': '4'}
+ {'review': 'Cheap prices, pleasant ride, that? Request transparency v.a. As far pay driver concerned. Correction previous (internal?) rating: I referring journey Berlin Mannheim. There unpleasant surprise bus driver FROM Berlin DIRECTION Mannheim. He asked barely German-speaking woman throw away (only) food, although could eaten break outside bus. He allowed others grant. On return trip last piece direction Berlin bus driver. There pleasant us despite traffic jam brought Berlin. Great recommendation! Thank best regards!', 'stars': '4'}
+ {'review': 'OK, cheap. Clean toilets often women. Internet good. There drinks', 'stars': '4'}
+ {'review': "I find joke none gentlemen able put women's suitcases hold. On contrary, men make fun I helped ladies put suitcase hold. One gentlemen knocked shoulder. I find bottomless impudence rides been.", 'stars': '4'}
+ {'review': 'Great run downhill finish, great performance drivers', 'stars': '4'}
+ {'review': 'Very good price / performance ratio good punctuality. Easy-to-use online booking system. The boarding bit chaotic, m.E. justified free seat choice (and everyone always wants get best seat). Here would approach system space reservation (polling station surcharge random space allocation), usual airlines, probably remedy. Otherwise highly recommended travel agent - even longer distances.', 'stars': '4'}
+ {'review': 'Everything fine.', 'stars': '4'}
+ {'review': 'The back row bus covered blankets sleeping blocked, bus almost full, one place left, places cleared drivers.', 'stars': '4'}
+ {'review': 'Rides cheap, rarely delays, much less stress train flight, usually. It quiet bus drivers usually okay. The drawback toilets. Public toilets generally great, especially drive several hours, go time time. And toilets, I allowed visit far S **. I tell you, able expect toilet paper, soap functioning hand dryers, unfortunately often case. In addition, simply unspeakably dirty. This done better.', 'stars': '4'}
+ {'review': 'A good alternative train', 'stars': '4'}
+ {'review': 'Everything OK, toilet could cleaner, gladly again.', 'stars': '4'}
+ {'review': 'On whole, good, bothered passengers left lot garbage subsequent passenger garbage front him.', 'stars': '4'}
+ {'review': 'Please allow elderly children first enter buses. It quickly get scary masses people. A stricter line people make scramble degenerate. Otherwise everything fine!', 'stars': '4'}
+ {'review': "Everything okay. Unfortunately, neither LOGIN Wi-Fi offered EAT DRINKS. The ride carried FlixBus ITALIA. From Basel Strasbourg - unfortunately STOP 20 minutes Freiburg / D reservation / choice NOT DISPLAYED. So drove ALL time D F ... I would preferred DIRECT BUS F WITHOUT UNSORTED Z-STOP. BUT ANOTHER WAS AS SAID ALL OK - The bus driver drove GOOD rather 'a bit slow'! We thus 10 minutes late - although several times FREIBURG ...", 'stars': '4'}
+ {'review': 'I satisfied trip Leipzig Dusseldorf, especially price 19,00 €. Although bus arrived Leipzig little delay, punctually Dusseldorf.', 'stars': '4'}
+ {'review': 'Really recommended!', 'stars': '4'}
+ {'review': 'The bus ride good smaller reductions!', 'stars': '4'}
+ {'review': 'Rides well, bus mostly cold driver unreasonable go wishes guests.', 'stars': '4'}
+ {'review': 'Good fast ride. Unfortunately without toilet WLAN', 'stars': '4'}
+ {'review': 'Cheap, effective clean. Unfortunately, internet often close.', 'stars': '4'}
+ {'review': 'The ride worked flawlessly I arrived time. However, possible use W-LAN entire journey.', 'stars': '4'}
+ {'review': 'You considered family boarding. The bus drives forward, doors open everyone storms bus, throwing jackets small bags seats make room them. The bus drivers watch family 2 large suitcases stroller stand stupid. If man offered us seat, would even able sit side side 3-year-old daughter.', 'stars': '4'}
+ {'review': 'The entry point (exit towards Vienna Zagreb) Prague could marked bit better (it reached side street, underpass small additional signs bus-boards) - almost customers "on Search "...', 'stars': '4'}
+ {'review': 'I would like give 5 stars, however, 1 4 bus drivers bit rude also 1 4 drivers bad driving style', 'stars': '4'}
+ {'review': 'Until time always punctual safe.', 'stars': '4'}
+ {'review': 'Price performance fits case! It works well stop consider long sit bus everyone knows much space bus available', 'stars': '4'}
+ {'review': 'Price service great, unfortunately Wi-Fi way', 'stars': '4'}
+ {'review': 'Everything great. Only wlan displayed. Was problem.', 'stars': '4'}
+ {'review': 'You would need know Flix bus. Good trip, unfortunately delay lack charging electrical appliances. No indication Wi-Fi Air conditioning-good, bus clean, hotline good. Explanation stop awareness place given.', 'stars': '4'}
+ {'review': 'Despite delays pleasant journey.', 'stars': '4'}
+ {'review': 'A cheap alternative train, bus driver unfortunately bad day probably missed mood. The service worked wonderfully even short-term rebooking easily without problems well possible.', 'stars': '4'}
+ {'review': 'That good trip. Unfortunately, connection bus delayed one hour.', 'stars': '4'}
+ {'review': 'Practical, reasonably priced travel option.', 'stars': '4'}
+ {'review': 'Very good value money! The frequently asked questions read, otherwise could get important information late: example, take child seat three-year-old child. When rebooking transaction whole page study. There possibility cancel everything individually entire booking. Here must note price higher, voucher left over, use one voucher time. It also noted rebook app free all. Very handy innovative digital check-in code phone :-)', 'stars': '4'}
+ {'review': 'Punctuality academic district, bus noise pretty loud, everything else fine.', 'stars': '4'}
+ {'review': "The first time Flixbus traveled skeptical, booking check bus proved easy also 5 hour drive went quickly comfortable well air conditioned bus. Amazing many Flixbusse Germany's highways traveling.", 'stars': '4'}
+ {'review': 'The ride itself, bus, driver, service cleanliness objectionable! Unfortunately, Wi-Fi reduced 150 mb, booking suggested otherwise. Too bad.', 'stars': '4'}
+ {'review': 'Just past 5th star, total TOP PERFORMANCE based price! Keep up! Frank Rautenberg', 'stars': '4'}
+ {'review': 'Care flat tire left lot desired. About 5 hours highway spent, real info various information continues now. One feeling mishap chaos central triggers. Bus drivers spoke bad German. Calls sides central service, taken passengers. Arrival 12.50 pm. 17.20 went finally 1 day holiday gone', 'stars': '4'}
+ {'review': 'Good connection, punctual, reasonably priced, thoroughly recommended', 'stars': '4'}
+ {'review': 'Actually everything great, many Zusteig possibilities. This ride would done 3 hours unfortunately twice long. Otherwise everything TOP !!!!', 'stars': '4'}
+ {'review': 'Stop Insbruck poorly described. New customers informed.', 'stars': '4'}
+ {'review': 'Bus arrived late Bus already way departure could cost travel double 1 day aufenthlat.', 'stars': '4'}
+ {'review': "I'm pretty satisfied. Unfortunately, stops reasonable. Frankfurt Main terrible example.", 'stars': '4'}
+ {'review': 'Everything good, except station Frankfurt bus station unfashionably equipped. : toilet, kiosk, cafe.', 'stars': '4'}
+ {'review': 'Nice driver, safe ride, fixing bike trailer really gentle frame, frame small dent!', 'stars': '4'}
+ {'review': 'It quick easy way get desired destination. I always again. I would given 5 stars bus old constant rattling sounds bothered me. I traveling 2 hours could stand it, drive 6 7 hours endure, difficult me. Personally, I would willing pay little bus company often change buses.', 'stars': '4'}
+ {'review': 'Ride Bern-München-BernTotal good experience. Potential improvement: - More generous time planning (eg evening traffic around urban centers Zurich, border controls) arrival times breaks met. Larger tables, least Setra bus I use: even mini notebook (12 inches) fit - Snack sale - Night driving "Wake-up service" (as night train, example means seat-mounted signs seating plan drivers) people get night.', 'stars': '4'}
+ {'review': 'Toilet ... Do think it, otherwise I would sway! Outlets round trip (the bus) broken. Everything else good', 'stars': '4'}
+ {'review': 'On time, clean friendly staff', 'stars': '4'}
+ {'review': 'A good alternative train. But remember, streets full, bus fly. There use moaning moaning. I like driving safely FlixBus.', 'stars': '4'}
+ {'review': "Everything ok, According bus driver, bus driver received training bus, never drove bus model, that's bad bus driver optimally drive bus ... Urgent repair!", 'stars': '4'}
+ {'review': 'Arrived punctually although left 10 min. Delay. Nice bus driver drove well safely. Unfortunately, I always know I holding bus long bus would there. But I certainly go back.', 'stars': '4'}
+ {'review': 'Except non-functioning Internet good. Driver knows friendly.', 'stars': '4'}
+ {'review': '1 hour delay departure unfortunate, since Munich already evening program planned. Unfortunately, return trip 7/7/17 (5:15 pm) also delay 35 minutes. Otherwise satisfied Flixbus', 'stars': '4'}
+ {'review': 'Good transport little money !!', 'stars': '4'}
+ {'review': "I'm sorry I give vent frustration ... I'm actually passionate Flixbus customer, still annoys much without warning spare bus plugged without power options, need much .. One pays expected service simply faced fait accompli, I think that's pity! Otherwise always great, would nice spare bus would least equipped usb electricity option ...", 'stars': '4'}
+ {'review': "The ride super enjoyable. We drove airport Berlin-Tegel Leipzig. The bus arrived time bus driver drove neatly. We arrived punctually Leipzig. The luggage space could improved bit (but complain high level). However, full empty bottles / cans next baggage. Our case messed - bad. We're going back, though. Is super cheap alternative train.", 'stars': '4'}
+ {'review': 'Pleasant traveling low price. In bus (Schwechat - Graz) USB ports broken. Streaming possible due speed / blocked pages (Youtube, Deezer). Toilet flush broken. Crumbs seats.', 'stars': '4'}
+ {'review': 'Price-performance ratio ok timely booking. Due extremely tight time limit, driver possible catch delay.', 'stars': '4'}
+ {'review': 'Fast uncomplicated booking process, bus arrived time Verona, boarding took bit, staff one guests. The idea QR code great, tickets smartphone, danger forgetting lower. Super dear bus driver impeccable handling. It single dangerous situation I felt 8 hours drive always safe. It driven fast, curves taken steep never abruptly braked. Wonderful ! The drawback toilet, half ride personally virtually longer walkable. This fault Flixbus, guests. Had second rest stop one could avoided toilet, I would given five stars! :) All all, I satisfied. We go hour police control, arrived 15 minutes late I could easily get connection bus. Gladly again. Flixbus best alternative car beats Deutsche Bahn price-performance ratio worlds.', 'stars': '4'}
+ {'review': 'A trip Fllixbus good start upcoming vacation. I recommend.', 'stars': '4'}
+ {'review': 'The journey went smoothly, boarding disembarking process quickly. Instead planned 2 3/4 hours almost 30 minutes rather wait despite waiting border. Unpleasant I found bad air bus fact staff invariably customers. Even younger people involved.', 'stars': '4'}
+ {'review': 'I satisfied first time.', 'stars': '4'}
+ {'review': 'Due longer distances Flixbus rides performs may already late - yes 100 km! The traveling audience night ride pleasant - constant talkers night nuisance - bus speak word power - would speak corresponding language (D, E). Otherwise peacefully.', 'stars': '4'}
+ {'review': 'Unbeatable alternative Bahnfahrten.Super simple simple booking system. Many ways pay tickets. Very clear app. Good notification delays. Consistent expansion line networkThe problem operator unable anything delay, delay caused occurrence traffic jam.', 'stars': '4'}
+ {'review': 'good driving comfort, pleasant journey', 'stars': '4'}
+ {'review': 'In meantime one gets feeling, market position exploited. With disappearance competitors Flixbus decreased lot. Punctuality unreliability increased, service deteriorated. There clearly competition. The prices still moderate rides buses complain about. It remains alternative train car.', 'stars': '4'}
+ {'review': 'Our first trip FlixBus, last. Our journey St. Gallen began delay 20 minutes, previously informed via email. The delay overtaken Munich. The whole ride pleasant time felt safe thanks forward-looking drive driver. The passenger cabin especially toilet extremely clean, surprised us positively. The seating comfort generous legroom side-shifting seats leaves nothing desired. Also functioning WLAN missing I use however much. We certainly continue use FlixBus basis experience.', 'stars': '4'}
+ {'review': 'Very good cheap alternative cars trains long-distance travel', 'stars': '4'}
+ {'review': 'I happy flixbus I recommend anyone time hurry delay trip Berlin Vienna back also company help sudden traffic jam. On whole, I satisfied price performance ratio really correct back forth 49 euros hurry I would change train faster take long pay travel train. Friendly staff could still work staff could speak German even better vlt toilets.', 'stars': '4'}
+ {'review': 'Cheap time. I went PolskiBus, although I booked Flixbus, information flixbus side, reserve seats bus information seats occupied still free thus I implement 4 times, annoying. There little leg space. If want save money take inconveniences.', 'stars': '4'}
+ {'review': 'Very good mobility existing buses. Easy booking via Internet smartphone. (even I, old sack, got along well!) Mostly several options lines trip, also booked trip several lines.', 'stars': '4'}
+ {'review': 'Cheap travel little service. For example, trip Zurich Karlsruhe regularly available 15 euros. Unfortunately, fixed departure platforms bus stations, keep eye entire bus station departure time. Unfortunately, Flixbus app provide course history delay indication, case DB Navigator. Information also scarce bus station. For luggage trunk unfortunately protection means luggage brands.', 'stars': '4'}
+ {'review': 'Only punctuality suboptimal air conditioning cold', 'stars': '4'}
+ {'review': 'Relaxed quickly reached destination', 'stars': '4'}
+ {'review': 'after solved problems flixbuss I delete contribution course pleased courses since become apparent, continue use flixbus even come DB convenience.', 'stars': '4'}
+ {'review': 'The following points must improved: - Courtesy staff-German language already (just driver route Amsterdam, Amsterdam, always understand want understand everything wrong) - cleanliness toilets (sometimes rolls, floor faucet sticks) - Delays buses working stressfulI drive every Friday every Monday Osnabrück Hanover back. Driving Mondays 08:00 clock N67 always annoying I know exactly expect, namely trouble. Unfortunately I take bus otherwise I get work time.', 'stars': '4'}
+ {'review': 'I like take night line long journeys, KA / HD HH / KI. However, disgrace trip, break passengers inserted briefly represent legs. Back went IC directly HD low price, 10 ¬ expensive Flixbus', 'stars': '4'}
+ {'review': 'If cooling better, would perfect ride.', 'stars': '4'}
+ {'review': 'The ride went change Paris Frankfurt Le Havre. On time, clean correct. Everything great.', 'stars': '4'}
+ {'review': 'Only good experiences far. + Punctuality + Friendliness driver + Good equipment + Comfort- space reservations possible- Air conditioning (on warm days) little power', 'stars': '4'}
+ {'review': 'Real alternative train, car, Blabla similar! 2 trips made far, one relaxing, travelers bus, uncomfortable, also night drive fully booked. It fault, also reckon it. Gladly again, except night drive! Great prices also early booking, ...', 'stars': '4'}
+ {'review': "I know could better late due traffic customer came late. I think it's class money pleasant travel. If I drive costs twice relaxed", 'stars': '4'}
+ {'review': 'I always go Flixbus.', 'stars': '4'}
+ {'review': 'I stunned find many reviews always 2 problems.1.-the pauses-2.the driver.The reason answer following-if I read negative also positive remarks "Carlos", I think it\'s joke address "DU", indeed also guests already criticized, little decency would appropriate. We several times bus, beginning everything great, still consider, following reason, already mentioned, journey times break long, 5 hours also experience, safety guests also driver? We drove central bus station Ingolstadt always felt safe, last ride not-vllt. could improvement.Thank continue satisfied guests friendly drivers.', 'stars': '4'}
+ {'review': "Always nice drivers Wi-Fi always worked well. So I Wi-Fi IC like Flixbus, I'd go often. Since bus clearly edge!", 'stars': '4'}
+ {'review': 'Very friendly driver', 'stars': '4'}
+ {'review': 'The buses clean bus drivers make good impression, unfortunately promised free WiFi buses. I 40 minutes late return trip, well announced SMS advance. Overall, especially considering cheap price.', 'stars': '4'}
+ {'review': 'Just nice', 'stars': '4'}
+ {'review': 'Top coaches, clean, absolutely punctual, everything great', 'stars': '4'}
+ {'review': 'Fast, good, cheap', 'stars': '4'}
+ {'review': 'Smooth running. A little late departure. Arrival unfortunately later planned. Clean toilet clean bus. So happy again!', 'stars': '4'}
+ {'review': 'Clean bus, nice service unfortunately Internet connection via Wi-Fi possible', 'stars': '4'}
+ {'review': 'Price achievement true, really great', 'stars': '4'}
+ {'review': 'I rode FlixBus first time again. Good inexpensive alternative train travel.', 'stars': '4'}
+ {'review': 'All good good, little things improved. More data volume WLAN e.g.', 'stars': '4'}
+ {'review': 'If future long-distance bus travel also checks, entry exit point, whether everyone also takes luggage, I would award 5 stars. I hold fact travelers access luggage, uncontrolled, security hole! The Postbus company given suitcase labels right entrance, identification purposes luggage checked member staff, much time be. Then I would travel relaxed Flixbus.', 'stars': '4'}
+ {'review': 'Overall, I quite satisfied, comfort I would appreciate higher expected. However, good I time pressure, otherwise I would problem. Why bus leave already 30 minutes late clear me. For delay company blame! These traffic jams', 'stars': '4'}
+ {'review': 'To recommend', 'stars': '4'}
+ {'review': 'Cheap travel alternative minor weaknesses service site, least outside Germany.', 'stars': '4'}
+ {'review': 'Advantages Flixbus1.Cheap tickets booking ☆☆☆☆☆ 2.Bus always neat Clean ☆☆☆☆☆ 3. Pleasant wool feeling bus ☆☆☆☆☆ 4. free Wlan 5. plug bus 6. SMS per Handy comes delay 7.tickets buy online scan smartphone drivers Disadvantage 1.It occur often bus delay usually experience 2 hours even without mobile notification per.sms ☆ .Wlan slow enough stream ☆☆☆ 3.Not every bus sockets ☆☆☆ When buying online, I asked I want create customer account problems memory ☆ Flixbus generally Recommended ☆☆☆☆', 'stars': '4'}
+ {'review': 'Super drives, unfortunately 30min delay, still frame :) bus driver great! Fast safe drove us destination !!', 'stars': '4'}
+ {'review': 'It convenient cheap alternative DB, journey times could shorter. All all, price-performance ratio ok.', 'stars': '4'}
+ {'review': 'Flixbus finally seems managed offer nationwide WLAN. Of course services blocked: clipfish e.g. called bus Wlan. The sockets worked, seats clean (which work well windows) drivers rested compared years. Straight medium distances (1-3 hours), Flixbus great alternative Train. It quickly becomes bit uncomfortable freedom movement bus course limited train. Comfortable clothing getting breaks provide remedy. The air much pleasant train: come surprise ventilation Flixbus better regional trains. But even ICs much drier room climate odors quickly air - minute ago, lady behind Flixbus used deodorant, barely smell it:) The background noise quieter train; There popping sliding doors missing gasket.', 'stars': '4'}
+ {'review': 'Transport super fast, buses comfortable. 1 point deduction bus canceled advance rebooked worse stop. Only 2 times Urgenz rebooked right stop.', 'stars': '4'}
+ {'review': 'The ticket control baggage take-over could even better organized (twice crowds)', 'stars': '4'}
+ {'review': 'Driver top bus rather old condition, seats / comfort well ... toilet without lighting? ! Flashlight door ?!', 'stars': '4'}
+ {'review': 'Very relaxed travel, without stress A B come. Always happy.', 'stars': '4'}
+ {'review': 'Gladly Flix bus. Cheap good.', 'stars': '4'}
+ {'review': 'Everything good except 150mb data limit wireless internet. That ridiculously little.', 'stars': '4'}
+ {'review': 'on way Berlin objection me, nice coming driver friendly, return trip concerns opposite .. Unaufudlichkeit driver. Does understand Deutsch.Fahrverhalten driver impossible (overhauled overtaking prohibition) makes announcements whether break inserted, telephone driving', 'stars': '4'}
+ {'review': 'Everything worked wonderfully smoothly. Also changes timely mitgegeilt mail.', 'stars': '4'}
+ {'review': 'Cheap, punctual, comfortable. A good alternative travel. Wi-Fi communication passengers could better. Otherwise really recommendable.', 'stars': '4'}
+ {'review': 'OK. Everything fine', 'stars': '4'}
+ {'review': 'The ride overall convincingly good, less ambient noise general telephony ban would desirable. The seats were, despite long-range character bus, relatively hard.', 'stars': '4'}
+ {'review': 'It helps users much vendors! Keep quiet :)', 'stars': '4'}
+ {'review': 'Under given influenced circumstances (traffic, street situations weather) everything absolutely fine, ride pleasantly stress-free.', 'stars': '4'}
+ {'review': 'Unfortunately, toilet clean, otherwise ride OK. I take long journey times low price purchasing.', 'stars': '4'}
+ {'review': 'I pleased.', 'stars': '4'}
+ {'review': 'the bus time minute destination. Unfortunately, toilet broken. It break parking lot.', 'stars': '4'}
+ {'review': 'Return 02.05 17.15 clock 40 minutes late, scheduled time timetable correct, come this. ?', 'stars': '4'}
+ {'review': 'Too bad. time started "late". Safe traffic jam route Dresden Berlin. Then went well Rostock.', 'stars': '4'}
+ {'review': 'I drove Dusseldorf Hamburg. There FlixBus trip older coach, Wi-Fi sockets. The driver two USB ports front. It 8 minutes late departure Dusseldorf, really crowded streets bus stop. There delay message - also advertised. The ride relaxed. The driver unbelievably friendly, well understood even though come Germany, always kept date constantly said use USB ports charge cell phone tablet. Also driving style great, felt really safe. He take break 45 minutes refuel once, finally got hour late arrival Hamburg (we get stuck traffic). For clear whether breaks included FlixBus app (at stop time overview). A big compliment driver! Unfortunately, FlixBus advertises service available everywhere. This pity.', 'stars': '4'}
+ {'review': 'I happy trip would book anytime :)', 'stars': '4'}
+ {'review': 'If 45 min. Would late, I would like given 5 stars.', 'stars': '4'}
+ {'review': 'Everything great, except Wi-Fi', 'stars': '4'}
+ {'review': 'Darmstadt Berlin. Bus arrived time Bus driver friendly. He helped get twice saw I trouble walking. On sen luggage one look intermediate times. Since controlled, takes what. Wi-Fi great. There lot leg room. There coffee snacks. Bus timetable ambitious. We 70 minutes late 2 small traffic jams. Interim bus driver would good. All price great thing.', 'stars': '4'}
+ {'review': 'Yes drive FlixBus cheaper train. awesome awake bus driver says could miss hear headphones (a signal lamp flashing permanently) would good.', 'stars': '4'}
+ {'review': 'Way long driving times, nice helpful drivers.', 'stars': '4'}
+ {'review': 'First ride FlixBus. Drove night. The ride pleasant.', 'stars': '4'}
+ {'review': 'The ticket booking easy way, question arises, pay online, TAN generator you. Vending machines cash payment bus would possible solution problem. I came back solution railway problem I unable pay way.', 'stars': '4'}
+ {'review': 'We initially found booking fairly simple internet also cheap, complain. The bus drivers Berlin friendly easy reach bus station. The ride pleasant long break enough "short" trip Berlin Munich also completely. Here little things otherwise totally great!', 'stars': '4'}
+ {'review': "I'm happy ride.", 'stars': '4'}
+ {'review': "Convenient, simple, direct, inexpensive. Teenagers easily travel alone. Unfortunately it's already 50 minutes late start, happen anyone road ...", 'stars': '4'}
+ {'review': 'The rides pretty good general far. Improvement course still there, since things like smoking front bus occur open doors, absolute no-go allergic person. Despite everything, trips mostly relaxed, due often nice bus drivers. Also, relatively punctual self-selected target, due high speeds. The conclusion good alternative train car. The value money good, book early want preserve this. Because say: "The early bird catches worm."', 'stars': '4'}
+ {'review': 'Almost everything good, bus punctual driver ok. Unfortunately bus dirty belt broken.', 'stars': '4'}
+ {'review': 'On whole, ok acceptable. For safety reasons take toilet paper power bank electronic devices. It first ride Flixbus. Would ride again!', 'stars': '4'}
+ {'review': 'I think price-performance ratio good. New buses wonderful. Toilet use would good, without restriction. The punctuality almost right, traffic already good. A coffee drink would good too. One dare address driver (while driving).', 'stars': '4'}
+ {'review': 'Punctuality: Ok, + 10minBusfahrer & Security: Announcements often missing Comfort & Facilities: Very good, Wi-Fi always', 'stars': '4'}
+ {'review': 'Pleasant ride low price', 'stars': '4'}
+ {'review': 'On long trips (15 hours) little exhausting. The hygiene great Top solved (Lack space toilet)', 'stars': '4'}
+ {'review': 'Very good bus service. ... better .....', 'stars': '4'}
+ {'review': 'I definitely travel Flixbus Leipzig. It shame Tuesdays Wednesdays bus stops Quedlinburg. I go back home train. But problem. The fare unbeatable. By car cheaper.', 'stars': '4'}
+ {'review': '... next time WLAN works - full score', 'stars': '4'}
+ {'review': 'The express line recommended offers real alternative travel options. In case, also cheapest way travel, even offered carpooling would expensive.', 'stars': '4'}
+ {'review': 'I satisfied I arrived punctually destination way back advance timely informed delay I could adjust it.', 'stars': '4'}
+ {'review': 'It pleasant drive Flixbus arrive punctually destination. :-)', 'stars': '4'}
+ {'review': 'The price-performance ratio good. Had trouble opening booking number accidentally made double booking.', 'stars': '4'}
+ {'review': 'I recommend trip Flixbus.', 'stars': '4'}
+ {'review': "Traveling Flixbus takes long, inexpensive journey. Every problems comfort seats longer trip cleanliness toilet. The biggest problem me, though, it's pretty stuffy. Unfortunately, ventilation work I lacking outward return trip oxygen. Special highlight friendliness commitment bus driver. The buses also good Wi-Fi connection. However, noted verbally free Wi-Fi used stream movies similar larger promotions.", 'stars': '4'}
+ {'review': 'as expected, excellent value money point yet optimal me: bus makes big detour (in case)', 'stars': '4'}
+ {'review': 'Good performance price', 'stars': '4'}
+ {'review': 'you - cheap alternative routes 300 km!', 'stars': '4'}
+ {'review': 'Just great cheap', 'stars': '4'}
+ {'review': 'On whole satisfied bothers fact time connection wireless network possible, since website considered unsafe. If still resolved, also 5 stars.', 'stars': '4'}
+ {'review': 'I several times FLixbus driven. This time went Prague always good. However, I wish Flixbus improved service within bus little bit, could seen rival Regiojet. There extra staff offers free hot drinks (eg coffee, tea hot chocolate). Otherwise, I continue drive company', 'stars': '4'}
+ {'review': 'surprisingly good, cheap convenient.', 'stars': '4'}
+ {'review': 'There noteworthy criticisms sell. I satisfied ride.', 'stars': '4'}
+ {'review': 'Pleasant ride, nice staff, nice clean buses, seat partners argue. A dancing gambling Chinese wish.', 'stars': '4'}
+ {'review': 'Because air traffic controller strike, I drove first time Flixbus. Although bus full, rush. The drivers friendly 12 hour journey amazingly fast. The price cheap, booking via Flixbus app uncomplicated. Gladly again.', 'stars': '4'}
+ {'review': 'On whole "all right"', 'stars': '4'}
+ {'review': 'Overall, I happy ride, travel bus (especially late night), live fact course bit cramped train, passengers bit. .. funny, employees company spray typical Busfahrercharme. You abkönnen, go.', 'stars': '4'}
+ {'review': 'Highly Recommended . Driving time price extremely cheap. You must aware takes longer, cheap. Any time .', 'stars': '4'}
+ {'review': 'The trip Innsbruck Bolzano pleasant 8 € really bargain. But I pay 9 € surcharge ski, I found exaggerated. The return trip reason cheaper train. The air conditioning relatively strong turned - scarf needed, catch cold. Everything else okay.', 'stars': '4'}
+ {'review': 'OK. Ride ok, bus newest, rocking', 'stars': '4'}
+ {'review': 'Always relaxed cheap.', 'stars': '4'}
+ {'review': 'A confident bus driver created great sense security. exact punctuality', 'stars': '4'}
+ {'review': 'fast, cheap time, without service', 'stars': '4'}
+ {'review': "My first ride FlixBus I'm pretty happy! Clean bus nice driver staff! The drawback screens used movies travel information! At 12 hour drive bit quiet! But otherwise best!", 'stars': '4'}
+ {'review': 'The first time flixbus. Price convenience convinced me. I go flixbus often future!', 'stars': '4'}
+ {'review': 'Everything satisfactory punctual.', 'stars': '4'}
+ {'review': "On whole, I'm satisfied, recommend ride flixbus. Point deduction zob Berlin far outside unfortunately pretty fresh bus.", 'stars': '4'}
+ {'review': 'All right, except limited Wi-Fi totally full bus. As seat reservation would great', 'stars': '4'}
+ {'review': 'Can recommend further', 'stars': '4'}
+ {'review': 'The second Flixbus ride like first uncomplicated comfortable. Since bus crowded (I 2 seats me, I estimate capacity 40-50%), I enough space approximately 7-hour drive. The bus drivers polite end went garbage bag, also something practical .. The star deduction: Known tell missing luggage stay intermediate stations. Therefore, strange feeling, luggage still end station ..', 'stars': '4'}
+ {'review': 'uncomplicated booking, minimal delay destination, good internet electricity bus, pleasant ride.', 'stars': '4'}
+ {'review': "The bus arrived time, journey went smoothly without special incidents. Only driver's driving time rest periods perhaps mentioned timetable, one miteinplanen necessary somewhat small unternehmen.Die delay twenty minutes tragic , although specified real time flixbus.de. All all, however, I'm pretty happy performance Flixbus", 'stars': '4'}
+ {'review': 'If internet worked, would even become 5 stars :)', 'stars': '4'}
+ {'review': 'Really great! Travel better! Cheaper anyway !!', 'stars': '4'}
+ {'review': 'The price great', 'stars': '4'}
+ {'review': 'Good, expand network', 'stars': '4'}
+ {'review': 'The bus time ride comfortable even indicated arrival time Dresden-Neustadt. Unfortunately, Wi-Fi bus, although advertised.', 'stars': '4'}
+ {'review': 'Pleasant ride!', 'stars': '4'}
+ {'review': 'The bus late, informed early enough. Otherwise, everything went smoothly I recommend Flexbus.', 'stars': '4'}
+ {'review': 'This ride certainly makes positive impression also pass necessary ride again.', 'stars': '4'}
+ {'review': 'Everything wonderful except booking', 'stars': '4'}
+ {'review': 'It would better one could bring announcement scoreboard attention stopping stop.', 'stars': '4'}
+ {'review': 'On whole good, bus driver friendly, criticism wlan speed. But flixbus aufjedemfall recommended (:', 'stars': '4'}
+ {'review': 'relatively punctual, nice driver - better always, fully ok', 'stars': '4'}
+ {'review': 'Was pleasant ride without major problems. The Wi-Fi however completely Allerwertisten:) driver nice easy :)', 'stars': '4'}
+ {'review': 'Everything works addition internet access. The fellow travelers unfortunately rather ruthless (do strap on, would probably require assistance event accident me, etc.)', 'stars': '4'}
+ {'review': 'Communication delay departure MA missing.', 'stars': '4'}
+ {'review': 'So far, everything fine. One find clever system loading.', 'stars': '4'}
+ {'review': 'We often travel Flixbus. The buses comfortable, clean never crowded. Spontaneous booking also good. Until always quiet rides sleep. We wait flixBus first time. Unfortunately, directly 1 hour without notification 5 degrees. You imagine joy. The opportunity buy snacks drinks find good. Suitable young old. And looking parking feel like. Especially city trips worthwhile.', 'stars': '4'}
+ {'review': 'Unfortunately, copy sent Bewertung.Und I want write this.', 'stars': '4'}
+ {'review': 'The overall offer excellent. The (but unfortunately quite big drawback: No function conditioner hand basin toilet)', 'stars': '4'}
+ {'review': 'The bus bit late, driver nüscht (even many passenger meant). It OK. The Wi-Fi needs faster, even several people time.', 'stars': '4'}
+ {'review': 'My first ride FlixBus good. The bus early bus stop left time. The driver brought us safely reliably destination, arrived time well. Wi-Fi worked well price also good. There star deduction, line network disaster really much choice long-distance bus thus handful destinations question', 'stars': '4'}
+ {'review': 'Except action bus driver unloading luggage right book again! There older ladies bus heavy suitcases. The guests crawl even luggage room get luggage !!! I approached bus driver answer job help unload would nowhere !! Not customer friendly !! I came back 2-month trip Asia, I traveling lot bus Asia every company luggage taken unloaded bus crew !!', 'stars': '4'}
+ {'review': 'Great prices Fast booking Fast check-inMany connectionsEasy Cancellation / rebookingDo allow dogs !!', 'stars': '4'}
+ {'review': 'I recommend Flixbus enough time want travel cheap. The rides pleasant, staff friendly unlike train, Flixbus always time trips.', 'stars': '4'}
+ {'review': 'It pleasant journey. I gladly travel again. Which great, email early morning departure came pointers trip. Thank you. Best regards, Ms. Lux', 'stars': '4'}
+ {'review': '... unfortunately also punctuality. If car stuck traffic jam, FlixBus same. Nevertheless, price-performance winner.', 'stars': '4'}
+ {'review': 'Good. I recommend.', 'stars': '4'}
+ {'review': 'Cheaper drive, least single traveler. Modern buses, equipment good. Announcement delay return trip good improved.', 'stars': '4'}
+ {'review': 'Very good alternative car miles better difficult book (for 9 people anyway impossible) system ÖBB-saving rail.', 'stars': '4'}
+ {'review': 'Nevertheless, I would always use Flixbus again.', 'stars': '4'}
+ {'review': "To read here. It quite normal one reckon small delays. There always traffic jam motorway. Everything worked well I really happy FlixBus, traffic jams journey bit late. But that's also much cheaper many means transport. So FlixBus customer me: -Dmfg Ingo Reis", 'stars': '4'}
+ {'review': 'Nothing complain except unfriendly bus driver.', 'stars': '4'}
+ {'review': 'Unfortunately, signs Flixbus visible Bf Deggendorf, public transport ... The ride pleasant, internet impeccable. Little time late. Price - performance, I think great. The next time I like go back Flixbus :)', 'stars': '4'}
+ {'review': 'Interest customer opinion, information management, concern reliability pursuit quality management moderate price result excellent overall package, Deutsche Bahn dream I (former) frequent traveler premium status Deitschen Bahn nearly accustomed was. Hope FlixBus one day win complacency excessive greed.', 'stars': '4'}
+ {'review': 'I would always travel FLIXBUS again.', 'stars': '4'}
+ {'review': 'The drivers super friendly despite delay, internet sockets would nice', 'stars': '4'}
+ {'review': 'Pleasant ride, punctual friendly, helpful humorous bus driver. Will I like use again. Only signs stations, bus stops buses could better, find easier.', 'stars': '4'}
+ {'review': 'For part, I positive experiences far. Good convenient travel, relatively cheap. Even though become expensive lately. At 4 rides one significant delay several hours. (My travel route international connection.) Announcements board first time today, nice!', 'stars': '4'}
+ {'review': 'The trip Berlin went smoothly pleasant. Also bus driver super nice good sense humor, slightly increased mood morning. The change Berlin bus Szczecin also without problems, bus driver spoke Polish - English German, I, customer wants visit friends Poland whose language really mastered, gave slight sense helplessness. Would nice drivers could least speak English driving countries.', 'stars': '4'}
+ {'review': 'The transportation comfortable, cheap easy. Unfortunately WLAN problem solved yet. But better train.', 'stars': '4'}
+ {'review': 'Flix bus ok. Unfortunately, always little crowded, actually deal 1 seat, Internet often slow. Everything else great.', 'stars': '4'}
+ {'review': 'Despite long journey FFM Split back extremely satisfied except one exception. Since Würzburg Dusseligkeit (toilet main train station) missed onward journey FFM 3 pieces luggage remained board I cried desperation Flixbus hotline Berlin. The lady brazen phone, showed understanding without solution. No inform driver. I fill form "lost property" online (which I did). My question, I could go Flix office FFM, said no. After all, able continue journey hour later expense. In FFM, Flixbus employee gave us deciding tip next day\'s departure bus Munich! We that. And behold, two bags board. However, third piece, shoulder bag, remains missing. Nevertheless, gladly travel Flixbus use clean on-board toilets.', 'stars': '4'}
+ {'review': 'More comfortable train, personal friendly', 'stars': '4'}
+ {'review': 'You definitely recommend. Relaxed travel.', 'stars': '4'}
+ {'review': 'perfect commuters, pupils students, super pricey & punctual', 'stars': '4'}
+ {'review': 'In opinion everything supper. I surprised I get sms bus comes later. Bus clean, opinion people I like sockets go wifi also time not. Otherwise ride supper driver too. As repair wifi request passengers.', 'stars': '4'}
+ {'review': 'Friendly, fast, reliable', 'stars': '4'}
+ {'review': 'I recommend Flixbus !!', 'stars': '4'}
+ {'review': 'The ride ok previous trips, disturbing music driver phoned driving Frankfurt without hands-free.', 'stars': '4'}
+ {'review': 'The trip Nuremberg pleasant, except fact sat right front toilet door toilet opened, gruesome. Aufgrtund I use toilet. This definitely accepted! The driver friendly ride good arrived almost punctually Nuremberg.', 'stars': '4'}
+ {'review': 'Nobody perfect, Flixbus close trip. :)', 'stars': '4'}
+ {'review': 'Safe cheap, times 30 minutes late', 'stars': '4'}
+ {'review': 'Even bus late, pleasant trip.', 'stars': '4'}
+ {'review': 'Würzburg - Frankfurt MainThere delay 45 minutes bus stop.', 'stars': '4'}
+ {'review': 'The bus 15 minutes late, Flixbus reasonably priced.', 'stars': '4'}
+ {'review': 'The booking subsequent contact service hotline disaster !! The credit card booking took forever I several times. The gentleman service hotline actually impudence (hardly understandable background noise like guest house) The bus ride simply SuperlgThomas', 'stars': '4'}
+ {'review': 'The driver always informs comprehensively everything happens', 'stars': '4'}
+ {'review': 'Have made 4 trips, always worked, delays (arrival) max. 10-15min.Der price (booking via Internet) cheap. In Zurich, still bit confusing, Flixbus info board similar. hat.WLAN (free :-) also worked mostly. When driving drinks buy.', 'stars': '4'}
+ {'review': 'Of course things could done better, consider price well. And fact cheap, also take lot buying adapting .... I choose form travel I enough time seem bad lose 1-2 hours traveling. ...', 'stars': '4'}
+ {'review': 'I happy ride FlixBus Amsterdam, pleasant trip despite late, arrived Amsterdam late able spend great day there. The criticism definitely hygiene toilet. This worked on. Otherwise, I satisfied, enough legroom almost constantly functioning WLAN.', 'stars': '4'}
+ {'review': 'Very friendly driver. Rest ok many details far perfect. An example: Unfortunately, internet work.', 'stars': '4'}
+ {'review': 'On time, well air conditioned pleasant ride. Unfortunately, media library little data volume wireless had.', 'stars': '4'}
+ {'review': 'Everything great. ,', 'stars': '4'}
+ {'review': 'Only annoyed missing sockets (in buses, are, not). Also ventilation unpleasant, boarding feeling climb sauna. At point cold pulled lower ventilation. And warm again: /', 'stars': '4'}
+ {'review': 'We 90% satisfied, price performance except small things i.O.', 'stars': '4'}
+ {'review': 'In general, hardly complaints side. The unstable internet connection annoying, affect driving experience much. So I recommend Flixbus good conscience.', 'stars': '4'}
+ {'review': 'All all, ride pleasant, criticisms.', 'stars': '4'}
+ {'review': 'Flixbus always good alternative expensive train tickets. Flixbus media selected films makes trip entertaining. It would nice coffee machine would work board. That unfortunately never case trips. Then would full score.', 'stars': '4'}
+ {'review': 'Very good ride. On time enough, bus 1A class, thank you, gladly :)', 'stars': '4'}
+ {'review': "It's right", 'stars': '4'}
+ {'review': 'Cheap travel option.', 'stars': '4'}
+ {'review': 'Very stress free cheap I drive again', 'stars': '4'}
+ {'review': 'Very good experience. Bus nice. Internet works fine. Bus clean.', 'stars': '4'}
+ {'review': 'Flixbus recommended. Cheap fast transport. Some connections still need optimized.', 'stars': '4'}
+ {'review': '... tiresome internet story Flixbus. I like driving regularly, always problems internet bus. Basically, I live it, advertise work well. See next time!', 'stars': '4'}
+ {'review': 'Friendly bus driver, unfortunately internet hot. Enough bin liner therefore neat clean. We stuck traffic jam short time still three minutes late. So TOP!', 'stars': '4'}
+ {'review': 'Wi-Fi, electrical outlets toilet board; Notification delay (usually) - via SMS; Punctuality routes traffic dependent (usually works) Unfortunately, many passengers see toilet full-fledged toilet emergency toilet driving. Why possible hygiene cleanliness sometimes guaranteed. The bus driver often already enough around ears much there. In addition, drivers apparently paid work cleaning bus (including cleaning toilet!). I like driving FlixBus. Good rides depend company also passengers. More respect, understanding consideration would great thing. Especially comes delays. The bus driver conjure avoid traffic jam.', 'stars': '4'}
+ {'review': 'Convenient inexpensive recommend especially older people, since annoying waiting tow queuing plane trip falls.', 'stars': '4'}
+ {'review': 'The trip punctual, always good Wi-Fi available, delay bus driver, I would find beautiful delay announced earlier. In general, I recommend trip Flixbus!', 'stars': '4'}
+ {'review': 'Nothing complain except missing Wifi stations announced.', 'stars': '4'}
+ {'review': 'Good cheap', 'stars': '4'}
+ {'review': 'In particular, I would like praise last trip Berlin Hannover, I paid € 11.90 - unbeatable price. The ride super pleasant, driver drove safely, on-board camera overlooking highway also gave sense security. The bus overpun, destination reached specified arrival time. I never expected, especially A2. The bus clean wifi worked perfectly. In addition, bus crowded. Only air conditioning bit cold (we women often freeze) welcome could done bit friendlier. Otherwise, top cost-effective alternative overpriced German train.', 'stars': '4'}
+ {'review': 'In itself, ride absolutely fine. Unfortunately bus arrived half hour late information it. The toilets unappetltlich unfortunately bus probably fully checked garbage even departure, still partly garbage predecessors. But otherwise everything ok. Busfaher nice, enough breaks times represent legs. Seating comfort definitely available, well enough sockets.', 'stars': '4'}
+ {'review': 'We drove Stuttgart Dusseldorf. The bus driver barely spoke German next stop. The bus full bearable', 'stars': '4'}
+ {'review': "You hear Wifi connection bus, access Youtube Netflix \u200b\u200bblocked, I watching movie another website, I Internet 10 minutes, access blocked - 8 hours. I think that's good tell something drive.", 'stars': '4'}
+ {'review': 'The buses well equipped enough legroom. The wifi works well abroad. The buses arrive little late destination. It impertinence woman take luggage bus. The drivers help taking luggage bus.', 'stars': '4'}
+ {'review': "It's last time I drove Flixbus. Good online service, cheap ticket nice staff. A bit messy bus station Hamburg, live it.", 'stars': '4'}
+ {'review': 'On whole runs Flixbus quite well. With pay vouchers remaining balance bookings still catching up. In booking mask, input options value vouchers remaining credit available order able summarize remaining credit trip.', 'stars': '4'}
+ {'review': 'As I said, hygiene better toilet also constant control role ride, since toilet paper needed.', 'stars': '4'}
+ {'review': 'First say: ride good, bus clean pleasantly air-conditioned. So recommended cheap alternative train, hurry. Unfortunately coordination departure miserable: bus clearly late, app service number said would punctual, even planned departure still bus seen. Which bus platform also recognized, neither booking confirmation, app Aushänge spot. The services board also advertised: WLAN trace , also information booking, advertised large, wireless bus. Although bad itself, promise, also able comply;) modern bus long night drive.', 'stars': '4'}
+ {'review': 'We able book group 19 people quite spontaneously coach Freiburg transaction worked well quickly. In addition, less 7.9 EUR per trip, route Karlsruhe unbeatable. Thank much', 'stars': '4'}
+ {'review': '(+) The trip Flixbus Leverkusen Metz pleasant cheap. The drivers nice caring. The luggage survived journey without impairment. (-) Since trip start 22:45 Leverkusen least 15 minutes advance, 22:25. Until journey started 22:50 stood 25 minutes complete darkness station feel really safe good hands. Without flashlight get along well evening neither timetable documents.', 'stars': '4'}
+ {'review': 'First drives Essen Berlin. No Wi-Fi driving. Change Berlin well good onward journey Stralsund. WLAN worked well bus.', 'stars': '4'}
+ {'review': 'Comfortable, even without power socket', 'stars': '4'}
+ {'review': 'For price I pay, consideration good. Thanks', 'stars': '4'}
+ {'review': 'Friendly staff, good service', 'stars': '4'}
+ {'review': 'Satisfied every way. Only air conditioning cold I got Erkungskltung trip.', 'stars': '4'}
+ {'review': 'but get trouble tight stations,', 'stars': '4'}
+ {'review': 'I drive 3 years Flixbus week HH. At beginning Flixbus trips bus drove 6.40 clock HRO. Then change timetables 7.40 clock go. Now I say departure time October November 2016 another hour 8.40 clock delayed. This I agree employer probably switch back DB. The question arises me, route well frequented, since / woman always seat neighbor ...', 'stars': '4'}
+ {'review': 'Have already used Flixbus rating several times. The first time 2015 total 3 trips seriously damaged ID card. Find pity taken program. (ONLY FOR BEGLEITPERSON) Internet left lot desired food drinks / coffee longer board. LOB, notified SMS bus late. Thank also compensation (voucher) unexpected delay line 051. The driver also nice helpful could even catch little. A defect bus foresee. Kind regards', 'stars': '4'}
+ {'review': 'The trip pleasant bus driver friendly. Unfortunately, toilet angry necessary, smelled strongly urine.', 'stars': '4'}
+ {'review': 'Cheap, correct', 'stars': '4'}
+ {'review': "VIP seats persons limited health urgently introduced. But otherwise nothing complain ... Bäääm '! Flixbus Rules! Yes!", 'stars': '4'}
+ {'review': 'good thing ...', 'stars': '4'}
+ {'review': 'Except reserve seats, I satisfied.', 'stars': '4'}
+ {'review': 'SIMPLY SUPER', 'stars': '4'}
+ {'review': "First all, I would like praise bus driver, friendly felt comfortable ride. For actually first ride Flixbus I drive future Flixbus. We problem wireless connection, course pity longer drive behind. Still thumbs I'm looking forward next trip !!", 'stars': '4'}
+ {'review': 'In general, good company, solve problem Internet, I told roaming working Switzerland (a good advertisement otherwise I satisfied.', 'stars': '4'}
+ {'review': 'The bus arrived relatively punctually Nuremberg. Passenger inlet went fast. I found bus clean / tidy. The ride pleasant (thanks air conditioning) arrived punctually Prague (CZ). The drive home definitely enjoyable .. ;-)', 'stars': '4'}
+ {'review': '4/5 taken', 'stars': '4'}
+ {'review': 'Everything OK! Except fact could eat kiosk, bakery. Small bites meant (bread, snack, nothing hot)', 'stars': '4'}
+ {'review': 'Very comfortable, peace Abgefahren .. 100% satisfied .. soon driving Flixbus ... ;-)', 'stars': '4'}
+ {'review': 'The ride pleasant I arrived punctually specified time. The driver nice made nice impression. I would always go back FlixBus recommend friends / acquaintances.', 'stars': '4'}
+ {'review': 'The ride Flixbus good, staff friendly. Unfortunately, traffic jam, due Flixbus general traffic situation.', 'stars': '4'}
+ {'review': 'In Strasbourg arrived 20.40 several Flixbuse, connection number 108 several times available, connection destination Mannheim, however, indicated buses. We thought still 108 destination Mannheim: wrong thought ...', 'stars': '4'}
+ {'review': 'Current trip: Berlin central bus station - Duisburg (according timetable scarcely 8 hours, despite traffic jam thanks bus driver altogether "only" approx. 15 min. Delay) normal bus, friendly coworkers, good information. Who depend temporal aspect, Do go wrong current prices company. Gladly again! :)', 'stars': '4'}
+ {'review': 'Friendly professional bus driver. A small delay due construction sites unavoidable. The price always unbeatable. My conclusion, Flixbus I book often.', 'stars': '4'}
+ {'review': 'The journey Saarbruecken Amsterdam went smoothly takes long train ride. However, lot cheaper. If book little ahead get ticket fer 22 Euro.', 'stars': '4'}
+ {'review': 'There problems, bus always punctual, except minutes, traffic jams one anything. The bus drivers friendly toilet amazingly clean. Absolutely recommendable.', 'stars': '4'}
+ {'review': 'I would go Berlin FlixBus. Very relaxed reliable.', 'stars': '4'}
+ {'review': 'There delay otherwise everything great. Gladly again.', 'stars': '4'}
+ {'review': 'Flix bus highly recommended. If wifi would work better', 'stars': '4'}
+ {'review': 'Traveling Flixbus cheap reliable recommend.', 'stars': '4'}
+ {'review': 'Everything OK, little smile warmth would give whole experience title "very good"', 'stars': '4'}
+ {'review': 'The times short, finish bus therefore always late without traffic jam.', 'stars': '4'}
+ {'review': "I'm completely satisfied. Only internet usable. It available, three people bus slow smartphone informs regularly network problems.", 'stars': '4'}
+ {'review': 'Bus confortable. Hotline bad.', 'stars': '4'}
+ {'review': 'One two drivers quite unfriendly, spent 2 hours traffic jam, company care either. The bus clean, seats comfortable even someone otherwise really afraid long bus rides, night trip really enjoyable. I "cured" refusal long bus trips thanks FlixBus would ride time (also happens days;))', 'stars': '4'}
+ {'review': 'Would go back it, need improvement Internet, toilets', 'stars': '4'}
+ {'review': 'The price super cheap, punctual, nice features, friendly driver, legroom, socket protection would useful', 'stars': '4'}
+ {'review': 'English bus driver would need improvement. WLAN work. No sockets available. Otherwise clean toilets, pleasant indoor climate, nice driver.', 'stars': '4'}
+ {'review': 'It pleasant journey. ..The bus drivers friendly safe traffic. I would always travel Flixbus again.', 'stars': '4'}
+ {'review': 'Convenient cheap way Basel. Should next time take cell phone, since I could experience bus delay return trip. It 30 minutes-still goes.', 'stars': '4'}
+ {'review': 'Toilet smelled pretty nasty, otherwise everything good', 'stars': '4'}
+ {'review': 'I repeat myself.', 'stars': '4'}
+ {'review': 'All all, better stop / drop-off location would desirable.', 'stars': '4'}
+ {'review': 'The trip Prague fine, water washing hands missing, otherwise toilet clean. The bus time. On way back disturbed reading lights always work. It looked like lights would work window seats aisles (in lower part bus). The bus super punctual!', 'stars': '4'}
+ {'review': 'Unfortunately internet, missing towels toilet', 'stars': '4'}
+ {'review': 'Flixbus also highly recommended minors traveling alone. Provided, however, child "reasonable" enough, well break inserted, passengers leave bus. Otherwise everything folded wonderfully smoothly! I recommend.', 'stars': '4'}
+ {'review': 'Bus time, driver friendly bikes stowed competent. Unfortunately, Wi-Fi worked good not. Since need it, bad. Next time FlixBus.', 'stars': '4'}
+ {'review': 'It fits whole', 'stars': '4'}
+ {'review': "I always enjoyed driving Flixbus, I say seems losing time. Windshield torn bus, chewing gum floor seats adjusted. I'm used something better. Then second time apparently Wi-Fi board. Because I device-independent network displayed although I one first 10 bus. And price increase. Please become second German train.", 'stars': '4'}
+ {'review': 'Price performance right Pleasant rideTimely ok clean bus.', 'stars': '4'}
+ {'review': 'Satisfied despite late.', 'stars': '4'}
+ {'review': 'Recommended, safe cheap!', 'stars': '4'}
+ {'review': 'On routes pretty cheap prices, punctual departure, clean bus pleasant driving style bus driver. The thing I would criticize would bus drivers seemed bit bored, positive points definitely outweigh.', 'stars': '4'}
+ {'review': 'Very good, cheap, comfortable, usually punctual; Wi-Fi works - perfect. But last three rides without internet - bad!', 'stars': '4'}
+ {'review': 'I drove first time Flixbus pleasantly surprised. Except I given wrong direction, I ask, otherwise best!', 'stars': '4'}
+ {'review': 'Flixbus especially young people real alternative train, Flixbus inexpensive also physical complaints, although rides quite long. Very good Wi-Fi despite full bus. Seats comfortable.', 'stars': '4'}
+ {'review': 'I happy bus drivers, seemed competent friendly. Also terms cleanliness, nothing complain about. The thing internet work full drive (7:30 hours).', 'stars': '4'}
+ {'review': 'The track Halle Hannover comfort-good, I could stretch legs. Unfortunately I get WLAN, I get it. From Hannover Duisburg relatively unproblematic. Only I much space. It really tight. To compensate, I able load phone access WLAN. Cheaper one come east west Germany. I drive guaranteed Flixbus.', 'stars': '4'}
+ {'review': 'Worthwhile, ferry included ticket price.', 'stars': '4'}
+ {'review': 'Will complain, really good, small suggestions: get started bit messy. If foreigner, would find difficult find right bus entry much vorgebrhrt. Internet work.', 'stars': '4'}
+ {'review': 'I bit skeptical, everything went perfectly. The driver staff friendly everything unbeatable price. Strangely, I unable make trip late booking app via website ... The app show early connection anymore ...', 'stars': '4'}
+ {'review': 'Good handling start. On time fast. Very friendly driver.', 'stars': '4'}
+ {'review': 'Everything headline ...', 'stars': '4'}
+ {'review': 'Cozy relaxing - gladly again! And price satisfactory.', 'stars': '4'}
+ {'review': 'I satisfied: cheap destination', 'stars': '4'}
+ {'review': 'Only negative: With slight delay probably live, bus protected highway traffic jams. A pity, however, notification website. The wifi bus unfortunately usable (it error back, seemed go like that). In addition, garbage found soap dispenser towels Toiletten.Jedoch positive note: enough legroom seats addition, bus driver short station represent legs. In addition, bus technically far Deutsche Bahn even slightly central passenger stations. Especially late bookings. Handling payment showing ticket stowing luggage completely problem-free.', 'stars': '4'}
+ {'review': 'The bus: neat, clean, air conditioned Seats: comfortable, (for bus) spacious sockets charging mobile phone similar. also available. Unfortunately, bus drivers sometimes bit taciturn. Personally, I find always better address driver name, trip takes longer city bus;)', 'stars': '4'}
+ {'review': 'I happy ride. Everything worked ride pleasant.', 'stars': '4'}
+ {'review': 'Very helpful bus driver loading suitcases! Unfortunately, however, bus drivers (there change team way) close communication - whether questions information delays, broken Wi-Fi, etc. It name next stop called, - otherwise announcements.', 'stars': '4'}
+ {'review': 'Bad german bus driver, missing media library. Pleasant place cheap.', 'stars': '4'}
+ {'review': 'I recommend flixbus, especially low prices.', 'stars': '4'}
+ {'review': 'Bus arrived 20 minutes late, 5 minutes late finish. Internet work me, others. Cheap way get A B.', 'stars': '4'}
+ {'review': 'Since I chosen since introduction long-distance coach services addition otherwise exclusively used BLB respective booking price (online) rides, I rate overall performance order: 1st place: BLB, consistent high standard, rarely overflowed booking desk, nutz.Platz 2nd: POSTBUS, good quality standard, booking ONLINE, allocation space booking (makes easier persuade seat neighbor carried hand luggage "my place" entfernt.Platz 3 .: FLIXBUS / My coach, service still improved pull together arrived multitude sub-entrepreneurs yet.', 'stars': '4'}
+ {'review': 'The driver really nice also speaks everyone near show many passengers possible right bus. During trip, Wi-Fi OK well breaks. The driver allowed us consume moderately / context Alk, already done anyway. I liked half wanted splash day.', 'stars': '4'}
+ {'review': 'All smooth ride. Internet access available Germany. Abroad, probably dropped roaming reasons.', 'stars': '4'}
+ {'review': "The journey uncomplicated, arrived time, everything good. A little something bothered bit I handbag cloth bag bath towel bottle water it. I actually put bag, really big, side luggage compartments. When I sitting bus, I looked around passengers several pieces hand luggage next also people bag + bag. Next time I'll without second part, I think either treat everyone second carry-on bag stowed bus, find solution fair everyone. Otherwise I recommend Flixbus ride.", 'stars': '4'}
+ {'review': 'Fast processing quickly coordinated team', 'stars': '4'}
+ {'review': 'Good, cheap problems internet often late ... Good customer service. It may also like introduced 10-minute breaks, otherwise TW. 6 hours sit!', 'stars': '4'}
+ {'review': 'The price-performance ratio great!', 'stars': '4'}
+ {'review': 'The trip Bolzano Bergamo impeccable. Nice, friendly good driver. One felt well safe. Compliments ... keep up. We remain loyal Flixbus :-)', 'stars': '4'}
+ {'review': 'Everything OK, except delay 2 hours ...', 'stars': '4'}
+ {'review': 'You come A B little money, need pretend, luxury, one does. Ordinary value money', 'stars': '4'}
+ {'review': 'If go weekend. Avoid seats near toilet. Otherwise OK', 'stars': '4'}
+ {'review': 'I drove first time FlixBus. Although ultimately delay 1 hour, I got connection bus. Will definitely go back FlixBus .... namely tomorrow!', 'stars': '4'}
+ {'review': 'Unfortunately, bus almost 2 hours late informed ... I found personally shame ... However, service board unbeatable ... way back everything worked great I recommend company ...', 'stars': '4'}
+ {'review': 'We traveling two waited bus bus stop, I got panic time. The bus visible text message information bus comes later, I get. A lady also waiting bus already called hotline, told bus 25 minutes late. When bus came I sat I receive text message. The delay cope I think bad. However, I would less stress I would informed good time. The ride pleasant bus drivers nice. The bus clean. The internet worked well free space choice good. This maintained case. That first last ride Flixbus', 'stars': '4'}
+ {'review': 'see title.', 'stars': '4'}
+ {'review': 'The drivers assistants wear clear tenue, example I mean green T-shirt polo shirt Flixbus, better distinguish traveling customers.', 'stars': '4'}
+ {'review': "The buses new, clean equipped power outlet! I think that's great! Gladly again", 'stars': '4'}
+ {'review': 'I would wish WLAN fully functional. Otherwise, ride pleasant. The bus driver friendly went quickly.', 'stars': '4'}
+ {'review': 'Everything went smoothly. Maybe could still show numbers departure points display board save search. Otherwise everything great. Any time.', 'stars': '4'}
+ {'review': 'One strengths Flixbus punctuality good value money exist. A big disadvantage unfriendly bus drivers. Öftere toilet cleaning would recommended longer trips.', 'stars': '4'}
+ {'review': 'The bus driver farm great, driver German quite powerful, bad. Unfortunately, internet bad all. In contrast, clean, tidy good trip', 'stars': '4'}
+ {'review': 'recommendable', 'stars': '4'}
+ {'review': 'Was first time Flixbus way must say I disappointed. Compared providers service entertainment devices on-board price absolutely justifiable. Always pleasure. Until next time.', 'stars': '4'}
+ {'review': 'Everything good, wireless connection improved.', 'stars': '4'}
+ {'review': 'For price, good service - Punctuality - Good driver well organized', 'stars': '4'}
+ {'review': 'It would nice bus driver greeted us said things buckles runs done. The climate work. It pretty warm find could get drinks bus ... All arrived well Berlin', 'stars': '4'}
+ {'review': 'See title :)', 'stars': '4'}
+ {'review': 'good possibility travel overnight. Not luxurious inexpensive. Negative advertise active free wifi sockets board booking ride. The sockets available wireless lane inoperative.', 'stars': '4'}
+ {'review': 'No delay Lübeck, extension ride due rain way Wismar. Nice bus driver nice fellow travelers enough storage space luggage bus.', 'stars': '4'}
+ {'review': 'Punctual departure slight delay outward journey due construction sites. Otherwise comfortable cheap. Who needs DB? Top!', 'stars': '4'}
+ {'review': 'The trip Berlin first trip company. The late departure acceptable, well timely feedback came phone. However, two-hour delay Berlin order, due compliance driving times (breaks must strictly enforced ) arrival almost impossible. In case cases bus driver would park bus front Berlin! However, experience, still worked. Since route congested, problem well known, waived expense dissatisfaction travelers second driver. The price 9.90 € tight opinion "reasonable" prices. A flight 25 € Mallorca also OK. The bus okay far, driver least beginning bad mood (something I seen day television report, positive negative gelaunter bus driver shown) , I hoped day traveling good-humored driver ... The stops better marked references existing toilet, pointed bus use "emergency". Internet access easy, However, connection satisfactory, due frequent dropouts. I would repeat ride, really stress-free, deadline. So far, nice experience maybe another result. Sincerely, Ralph', 'stars': '4'}
+ {'review': 'Except failed WLAN Was everything great. Any time.', 'stars': '4'}
+ {'review': 'The first time I went Flixbus, price convincing fair. The bus clean driver nice, problems luggage something. The small drawback internet, log turns complicated half hour free enough, reception really miserable. All all, I would still go Flixbus again.', 'stars': '4'}
+ {'review': 'Except delay high traffic ok', 'stars': '4'}
+ {'review': 'Absolutely punctual reliable. Stress-free travel! Only WLAN unfortunately available.', 'stars': '4'}
+ {'review': 'The bus driver friendly, bus clean bus arrived half hour early! Very pleasant ride all, unfortunately Wi-Fi.', 'stars': '4'}
+ {'review': 'Friendliness driver punctuality commendable! Internet -> disaster !!! During entire travel time connection possible! Very annoying firmly planned work driving!', 'stars': '4'}
+ {'review': 'the stops central public transport connection connections well within walking distance', 'stars': '4'}
+ {'review': 'My aunt I drove two Strasbourg back forth 31euro 75min. The train would taken longer cost much more. Internet connection catastrophic driving could connect wifi driving back could surf internet, although connected Wifi. When driving back bus due traffic 40 minutes late, annoyed us got text message, informed us, I found great. If Wifi connection would worked, flixbus would get 5 stars.', 'stars': '4'}
+ {'review': 'The ride went smoothly, punctual departure despite 30 degrees outside pleasant climate indoors. However, I could use internet phone. Wi-Fi connection available, I could use it. Otherwise everything else recommended.', 'stars': '4'}
+ {'review': 'On whole, ride good. I felt comfortable use again!', 'stars': '4'}
+ {'review': 'only recommended', 'stars': '4'}
+ {'review': 'Was quiet night ride. Only small departure u. Late arrival. Can recommend FlixBus.', 'stars': '4'}
+ {'review': 'I would book anytime. Better train.', 'stars': '4'}
+ {'review': 'I happy whole process good organization ...', 'stars': '4'}
+ {'review': 'Very nice flexible driver return bus failure! SMS displayed mail misleading, since I actually rebooked trip mail. Better tell bus failure mail!', 'stars': '4'}
+ {'review': 'In itself, I really happy. The Busfaher nice humorous. Granted, bus full up. It would nice space rucksacks shelves also two sockets tables. We four laptops take turns sockets. The one star deducted internet. Maybe bus full. In beginning, I still came Internet, especially laptop point. Bit silly, also needed hour longer congestion. Conclusion: This company definitely recommendable!', 'stars': '4'}
+ {'review': 'For price good alternative train. With slight delay live well.', 'stars': '4'}
+ {'review': 'The bus 15 minutes late; besides, internet work whole trip.', 'stars': '4'}
+ {'review': 'straightforward time despite Friday afternoonA small deduction. Despite good video offer entertainment. Again I load app still I watch video.', 'stars': '4'}
+ {'review': 'Except internet work properly - recommended!', 'stars': '4'}
+ {'review': 'The driver friendly, bus clean, Wi-Fi connection miserable. The Mediacenter also unusable. For DB good alternative. I travel Flixbus again.', 'stars': '4'}
+ {'review': 'Keep good work!', 'stars': '4'}
+ {'review': 'The ride pleasantly quiet Delays announced soon enough well stops. Usually bus arrives even arrival time (if traffic jams). All all, I recommend Flixbus, especially since far cheaper train.', 'stars': '4'}
+ {'review': 'each time again', 'stars': '4'}
+ {'review': 'Everything good WiFi availability', 'stars': '4'}
+ {'review': 'On time, clean pleasant night ride be.', 'stars': '4'}
+ {'review': 'Everything great except barely available internet connection. You get cheap A B - way still work, read whatever. The rides time time. Many Thanks!', 'stars': '4'}
+ {'review': 'I like ride train, I also like long-distance buses, especially shorter distances like HH-Berlin. Great offer, cheap price. Good!', 'stars': '4'}
+ {'review': 'My last trip BS Hamburg causes good rating! More specifically, driver! So far I rather rude / rugged drivers spoke little German Wednesday I courteous polite driver I continue use Flixbus much !! : o) I always know Wi-Fi, I could ask. ;) Practically would, flyer safety instructions, flyer WLAN password important facts .. eg outlet is: D (After driver mentioned that, hung everywhere ceiling, funny: ) shows useful necessary announcements (:) Conclusion: A VERY enjoyable ride good experiences Flixbus :)', 'stars': '4'}
+ {'review': "The ride pleasant except clattering toilet course, again, despite fact made it. This pleasant sat directly behind it. I think it's important bus driver introduce himself, bus driver boarded Göttingen. For brewers came there, considered necessary, pity. Auserdem I information drinks, Wi-Fi sockets missing. It pity flew wifi time, would need offer work. Otherwise, trip pleasant taken train would change luggage great price.", 'stars': '4'}
+ {'review': 'Everything ok, I recommend flixbus. ,', 'stars': '4'}
+ {'review': 'We booked short notice, everything worked great, nice drivers, clean toilet, fast destination little money', 'stars': '4'}
+ {'review': 'Outride driver phoned driving made announcements. I neither internet power available. Return trip excellent. Driver made announcements, drove safely concentrated. Wi-Fi electricity available.', 'stars': '4'}
+ {'review': 'Everything great. Departure, drive arrival. Always pleasant feeling great.', 'stars': '4'}
+ {'review': 'Bus time, driver friendly, internet partially working. Toilets tight, disinfectants etc. available.', 'stars': '4'}
+ {'review': 'The ride great, bus new well equipped. Unfortunately, Wi-Fi really good break 15min longer indicated timetable. Otherwise, everything fine!', 'stars': '4'}
+ {'review': 'The FlixBus super punctual despite long distance. Garbage bags hung armrests hallway seats. So every passenger could dispose garbage well. The WLAN stable powerful.', 'stars': '4'}
+ {'review': 'I went second time Flixbus satisfied service.', 'stars': '4'}
+ {'review': "Booking settlement perfect. However, I say bus driver anything courteous friendly. He treated perfectly well. However, I encountered unfriendly behavior towards non-German-speaking passengers come EU. After question bus ticket, also wanted see passport ID card, many passengers understood right away pitch worked repeated requests turn annoyed. Second shortcoming I felt, since I first time made quick decision company, made announcements beginning journey buyable snacks drinks. The first announcement came reached Dortmund main station. It may bad ride that's short, it's going several hours, may thirsty hungry snack. Otherwise drive ok, I Wi-Fi, brochure also sitting relaxing contrast bus companies. Therefore whole 4 stars !!", 'stars': '4'}
+ {'review': 'For clear time booking stop Berlin journey starts. I informed Internet service Mediacenter driving market research. Nevertheless, pleasant trip, bus (at least inside) clean punctual. I recommend bus / Flixbus happy.', 'stars': '4'}
+ {'review': "I riding FlixBus first time Saturday. Feel confident. I've truck driver Europe North Africa. FlixBus brings safely wife Hamburg.Die telephone customer service helpful helpful. Hm Regards, Simply Fred.", 'stars': '4'}
+ {'review': 'Hope much connections Munich - Tübingen - Munich changes nothing (disadvantageous: travel times, price) Thanks greetingsDieter black', 'stars': '4'}
+ {'review': 'The two bus drivers friendly pleasant driving style. The bus time. Everyone could invite luggage. At time publication, care taken see baggage actually belonged passenger. It would easy steal baggage loading unloading. The windows bus dirty / smudged.', 'stars': '4'}
+ {'review': 'The ride quite good. I\'ve raced fourth fifth time problems either. But; When, 10 minutes, I realized I forgotten suitcase hold getting car ran back life, I could find bus get information. I spoke colleague blurted unabashedly: "I know, I\'m driver bus here." class. He still sent office busPort Hamburg ZOB. The young woman looked stupid ignorant, put business card told call there. I tried call 42 times I put through. For alleged 24h service, belt. Desperately, I drove actual vacation spot subway. Once there, I filled form lost items Internet sent off. A little later came email taken care I notified shortly. And hint take 30 days. 30 days. And vacation. The notification coming soon still there. The next day, today, I called hotline put 5 minutes. The lady phone told also, I would fill form everything would go course, 3-4 weeks. Although help it, I left displeasure. Now I Hamburg vacation things. Money etc course purse, I me. And yet, I somehow nothing. At point I would like allow tip made possible bus driver control luggage compartments, picked bags suitcases respective stop station. Thus, unbearable waiting times could shortened avoided. I still sitting I know bag is, could delivered I get back me. Otherwise, I like travel always happy drivers arrival departure. But bad customer service, sorry.', 'stars': '4'}
+ {'review': 'Price performance good, again.', 'stars': '4'}
+ {'review': 'I drove spontaneously FlixBus Berlin Münster Westphalia. It really quiet pleasant. I difficulty W-LAN otherwise round pleasant driving experience. Keep going! ^^', 'stars': '4'}
+ {'review': 'This 2nd ride Flixbus. I drove 19:15 Frankfurt Hbf Leverkusen. I paid 9 € trip. A similar trip train would cost least € 29. The journey time even shorter indicated bus left time Frankfurt. The bus relatively empty, I personally found pleasant. Unfortunately, Wi-Fi Media Center work properly, star deduction. The seats comfortable.', 'stars': '4'}
+ {'review': 'Due construction site Frankfurt, stop relocated. Fifteen minutes departure bus stop. The bus 20 minutes late. 35 minutes constant rain stood without Unterstellmöglichkeit. It would nice, inform passengers delays. Otherwise everything fine.', 'stars': '4'}
+ {'review': 'Very good drive, entry Zurich bit chaotic, everyone wants best place. Otherwise recommended.', 'stars': '4'}
+ {'review': 'Except lack Wi-Fi everything great', 'stars': '4'}
+ {'review': "Was promoted A B great value money. Ideal young people planning short breaks city breaks. Only punctuality still room move up, that's small thing.", 'stars': '4'}
+ {'review': 'The price really unbeatable long distances. You drive comfortably, internet small snacks quite affordable prices. But travel times alone bit long', 'stars': '4'}
+ {'review': 'As far completely happy, extremely full therefore bit complicated me, I handicapped', 'stars': '4'}
+ {'review': 'The central bus station Nuremberg way small many buses run there. It creates hell mess. Missing scoreboards complicate clarity. The whole structure. You make picture spot chaos. Positive proximity main station, I arrive outside S-Bahn.', 'stars': '4'}
+ {'review': 'Departure arrival optimal punctual, ride pleasant except cold bus. I took 3h 25min ride unfortunately impossible take jacket scarf. feet comparable frozen beans. unfortunately first time, please save heater! otherwise I absolutely nothing complain, driver 1 + * friendly, friendly helpful (from HH Osterode departure 09.00 clock 07.01.2016). Many long-distance bus / Flixbus rides planned.', 'stars': '4'}
+ {'review': 'Easy booking relaxed journey Thuringia.', 'stars': '4'}
+ {'review': 'I liked it. Bus driver friendly, bus arrived Tübingen 10 minutes earlier. The internet connection I also found good. My bus postbus always choices I drive long distance.', 'stars': '4'}
+ {'review': 'The ride pleasant much cheaper driving car. The bus driver nice bus clean. Only WLAN work, bad 2 hours drive, pity.', 'stars': '4'}
+ {'review': 'There Wi-Fi bus half exploited. That great pity travel pleasant.', 'stars': '4'}
+ {'review': 'A good ride', 'stars': '4'}
+ {'review': 'The trips Flixbus always good. The rides cheap, fast comfortable would expect coach. Unfortunately, offered WLAN always work, buses even use video library Flixbus, simple surfing impossible. Mostly sockets charge, example, phone laptop. However, recommended pack 3-pin connector high-performance battery, may happen share sockets passengers. Overall, however, I satisfied rides - I said, cheap, fast reliable', 'stars': '4'}
+ {'review': 'Gladly again!', 'stars': '4'}
+ {'review': 'Great team, good entertainment ride. The mark would replacement bracket toilet toilet paper would great. But want moan highest level otherwise everything great', 'stars': '4'}
+ {'review': 'At WLAN must worked.Blood also, one quite come destination take money public transport hand. I still go Wuppertal. There connection Ulm Wuppertal transfer possibility.', 'stars': '4'}
+ {'review': 'No change, delay train. For good comfort. We happy use FlixBus return journey airport.', 'stars': '4'}
+ {'review': 'All trips, whether foreign countries Germany gone extremely well.', 'stars': '4'}
+ {'review': 'We ride Berlin-Alex Świnoujście back. Overall, ride pleasant, punctual trouble-free. What pleasantly noticed luggage stowed differently driver first Alex ZOB. A bit annoying could use Wi-Fi throughout, Empfang.Zu recommended set roofing stop Alex, still pleasant weather, rains storms - all, early enough - weather protection would pleasant.', 'stars': '4'}
+ {'review': '... route Meran Munich Berlin 17.10.15. I felt safe four drivers: two friendly, courteous, helpful helpful luggage driver Merano via Bolzano two slightly cooler equipped Berlin snout vigorous Buschauffeure, one arriving Berlin suitcase let trunk. This lack help drawback, which, however, remains memory let book return trip Megabus.', 'stars': '4'}
+ {'review': 'Booking, rebooking cancellation easy straightforward. The comfort bus good free Wi-Fi available routes (except int. Routes). Two pieces luggage per tour included price! Good value money!', 'stars': '4'}
+ {'review': 'I driving good half years, i. E. Several times month Flixbus rarely train. So far I nice drivers, rides usually punctual little delay I ALWAYS satisfied condition bus. Now deal unpleasant passengers, since one anything it, except people themselves, mostly also reacted driver accordingly. What unfortunately always "problem" irregular provision WiFi. Every I relied able things bus, unfortunately possible. But usually possibility Internet access train, WLAN basically another plus point. Decisive student many places price, usually undercut way. All all, I\'m glad long-distance bus service always come back it!', 'stars': '4'}
+ {'review': 'Again like, suber buses, nice funny bus driver, internet however weak, nothing brings. Otherwise everything great.', 'stars': '4'}
+ {'review': 'Bolzano - Munich + ride well used. + Price / performance Internet / Mediacenter unfortunately 50% ride available. Mediacenter contents unfortunately always same. -30min delay (no fault)', 'stars': '4'}
+ {'review': 'I drive distance Dresden Leipzig. Recently I drove longer distance Saarbrücken used night connection. On whole I quite satisfied service offered - unbeatable price! The criticisms sometimes bad ventilation sometimes chaotic check in. Maybe company could plan seat assignment future; From technical point view, major problem. So could look online seats still available free seats make one places booking. This would also save lot time check-in ...', 'stars': '4'}
+ {'review': 'I often went Flixbus, I satisfied whole, buses 2 times late otherwise top.', 'stars': '4'}
+ {'review': 'I like drive often Flixbus rather annoying drive double-decker line 052 really crowded weekend always full I like avoid competition air. So I say anything negative (except drivers barely German let alone announce safety message bus every bus, automated announcements despair even luggage) In Halle also Station staff use hardly tourist knows terminal even drivers know sometimes completely around station (even experienced twice) I even volunteer. Otherwise, I satisfied hope prices remain stable. The train pack ... fan Patti', 'stars': '4'}
+ {'review': 'i drive flixbus least twice month satisfied far. Apart problem internet, I masives delay problem. would great fortified seats seating cases. I use toilets yet, I comment that. I think app great, I book anywhere longer need printer ticket. unfortunately rebooking apop work yet, certainly be. I satisfied continue drive.', 'stars': '4'}
+ {'review': "I've riding year good experiences bad ones. But often noticeable delays drivers comply driving rest times hardly fits route planning. It planned better. Otherwise always super friendly staff good late notifications. About W LAN quality buses, I would complain much technology also plays role. Your cheap alternative train car.", 'stars': '4'}
+ {'review': 'Flixbus / MeinFernbus great alternative Deutsche Bahn. Above all, option canceling rebooking booked trip shortly departure allows flexibility travel planning. I recommend company!', 'stars': '4'}
+ {'review': 'Ferry regularly Bremen Hamburg back. Up exceptions, bus time ... quite demanding situation a.d. Highways. Have 2 times German railways chosen time considerable delays started, stood track, etc., without advance Ingo, makes better! WLAN, yes could work better, otherwise everything paletti. Oh yes drivers usually playing it.', 'stars': '4'}
+ {'review': "Have Flixbus almost year every again! Was already Baltic Sea North Rhine-Westphalia, far could complain always punctual driven off! Often also passengers either late follow instructions bus driver! For disabilities way construction sites, detours, etc., change it! But I would often wish I mark stops even better shelters verseht bad weather! Furthermore, would nice buses equipped working outlets, coupled sufficient coverage W Lan's! So dear Flixbus / My coach team still much do! Note: Vlt check-in bus also introduce identity card control, prevents transport refugees already read here! (Just tip)", 'stars': '4'}
+ {'review': "Hello, I drive often long-distance bus Germany thing bothers again, bus often late! I know sometimes traffic stupid, worst thing waiting passengers !!! Of course, I understand too, arrive late (can happen anyone, you're glad bus waiting), often it's people keep check in. Furthermore, would pleasant air conditioning systems would work better, bus always quite warm hardly ventilated. Otherwise, everything ok ... Well wifi exactly best: / ... Well, thank understanding :)", 'stars': '4'}
+ {'review': 'Meinfernbus Flixbus satisfactory long-distance bus company. With numerous connections daily. The comfort bus highly recommended. There relatively resist, unlike many companies industry. Positive would example free Wi-Fi, small selection snacks cold drinks board narrow Taler (in buses coffee machine), Nottoilette, air conditioning long trips 20 30 minute breaks rest areas eat. And importantly, many seats sold seats available. The negative mentioned free telephone transfer missing. Or one without deduction - cancellation.', 'stars': '4'}
+ {'review': 'Delays acceptable, considering bus dependent road traffic. WLAN works mostly without problems, sometimes even media center, watch movies free read series newspapers.', 'stars': '4'}
+ {'review': "FlixBus great way travel A B comfortably cheaply, flexible terms time live close bus stop (regularly used route Karlsruhe Landau <-> Munich). As student, it's best way commute home country. So far, I almost always punctual (only 1x 2h late, I received voucher this) organization satisfied. Recently I also positively surprised early delays. The WLAN is, bus full, unfortunately always workable, I generally satisfied bus equipment. As long bus become expensive, I remain loyal customer route. Longer distances would worth considering, many stopovers extend ride. Unfortunately, bus sometimes relatively expensive popular times.", 'stars': '4'}
+ {'review': 'I travel lot Flixbus, several times month, usually. route Dresden-Berlin. On whole, I satisfied. Most buses modern comfortable, equipped outlets (reasonably) working Wi-Fi toilets fine. Now sometimes older model here, often replacement bus, unfortunately often without, retrofitted sockets top luggage rack, quite impractical, least, mostly without WiFi. Unfortunately, I already completely broken heavily worn seat belt 3 times time time adjust backrest (anymore). 10Min late departures quite common, probably. 50%, I think bad. Lately, unfortunately, significant delays 30/45 minutes (more congestion due summer holidays?), In half cases without notification SMS staff, course, especially high temperatures present (07 + 08/15), and, least stop Dresden Hbf, shadows seating, extremely annoying sometimes seriously harmful health. With corresponding delay message could least go somewhere shade, know bus leaves unfortunately stay there. The riders usually friendly drive absolutely neat. In principle, I find snack drink offer (in buses), one must distract purchase / driver * trip, I think rather good. Maybe concept reworked bit I would like improve: 1. More frequent control and, necessary, replacement seatbelts2. (shady) seating stops (Dresden Hbf. Neustadt!) 3. Improvement WLan bandwidth reception "on flat land", activation YouTube;) 4. In app "My Tickets" canceled tickets disappear list, rather confusing;) 4. In addition, I would like even barrier-free buses, even concern myself. Some already international lines, still more, even people physical impairments want mobile. And also marked Internet app, whether particular bus barrier-free not.', 'stars': '4'}
+ {'review': 'I traveled Milan Munich flixbus. Bus punctual, one stop 30 minutes San Bernardino. Negative aspects: wi-fi driver spoke German.', 'stars': '4'}
+ {'review': 'I traveled first time long - distance bus (Berlin - Warnemünde - Berlin) really satisfied. The legroom good, seats comfortable. For shorter trips (up 4 hours) I would go back bus. The thing work Wi-Fi. But trips. But since I able deal reading listening music, bad me. Still, work offered.', 'stars': '4'}
+ {'review': 'The rides pleasant. Even seat neighbor enough space. You take lot luggage. Unfortunately, sometimes pulls windows wrap jacket.', 'stars': '4'}
+ {'review': 'the ride really good.', 'stars': '4'}
+ {'review': 'good route network low prices', 'stars': '4'}
+ {'review': 'I always like drive Flixbus, get A B comfortably good price. Of course, delays, bus drivers anything it.', 'stars': '4'}
+ {'review': 'Pleasant ride! Wi-Fi unfortunately limited.', 'stars': '4'}
+ {'review': "The bus drivers friendly, buses clean, wifi works well, toilet board. No real announcement delays. Sometimes wait 40-50 minutes bus stop bus arrives. The prices higher weekend. But I'm happy FlixBus!", 'stars': '4'}
+ {'review': 'Very good service!', 'stars': '4'}
+ {'review': 'Good performance pleasant price, Wi-Fi usually available, otherwise everything optimal. I hope latest events (merger Meinfernbus) negatively affect travel prices.', 'stars': '4'}
+ {'review': 'At flixbus travel conveniently, cheaply easily. However offered service works WLAN rarely. In addition, unfortunately media center watch movies competition already show. All all, nevertheless good!', 'stars': '4'}
+ {'review': '-it always nice, drive original bus, sockets wireless-super price-last time even luggage loading helped-very punctual', 'stars': '4'}
+ {'review': 'So far I could complain. Rides fine price / performance ratio. Unique: Sometimes clean toilets, wifi jerky outlets every seat.', 'stars': '4'}
+ {'review': 'The thing bothers bit Wi-Fi locked one half two hours, "exceeded limit." Otherwise, I really like driving Flixbus. Have good experiences far customer service great.', 'stars': '4'}
+ {'review': 'Overall, everything green area, would nice could reserve seats online bus driver also offer help putting suitcases.', 'stars': '4'}
+ {'review': 'I often drive line Munich-Freiburg. Always time (for weather traffic jams, one knows what), Wi-Fi stable throughout. Info delays waiting travelers intermediate stops must urgently improved.', 'stars': '4'}
+ {'review': 'As always, I satisfied offer. Relatively time not, notification via SMS (apparently system improved past, time ago still problems it). The bus drivers unobjectionable friendly bus always pretty well maintained. However, route Chemnitz-Erfurt significant price increase (the best price went € 2 amount) quite worth mentioning, still comparison offers Deutsche Bahn.', 'stars': '4'}
+ {'review': "It's always good ride Flixbus. Buses well equipped, Wi-Fi works mostly get delays phone - want! Unfortunately, bus drivers driving; speak luggage invitation / projection & presented .. I said some. ;) All all, Flixbus good. :)", 'stars': '4'}
+ {'review': 'By large, I satisfied company Flixbus. Both customer service bus ride good. Suggestions improvement would free hotline cleanliness bus toilet.', 'stars': '4'}
+ {'review': 'Flixbus great! Priced, course, unbeatable! The buses well equipped almost always time. Only rarely delays. Unfortunately, delay information always work.', 'stars': '4'}
+ {'review': 'Bad snowy weather, nevertheless almost time, everything clean, also toilet, internet good, everything fine.', 'stars': '4'}
+ {'review': 'Pleasant rides, sometimes crowded sometimes late. You able change that, better app prediction would great.', 'stars': '4'}
+ {'review': 'The bus early enough could leave time. The ride pleasant. The good wireless connection bus contributes part. In addition, arrived earlier stated destination. I would recommend Flixbus experience.', 'stars': '4'}
+ {'review': 'The ride far quite good driver new bus operator driver company erfmann true better else would nice mediathek company Schmidt drives Fernbus', 'stars': '4'}
+ {'review': 'I use Flixbus frequently cheap reliable. Who problem rather limited space bus, change train long-distance bus. It much cheaper.', 'stars': '4'}
+ {'review': 'Cheap good connections new buses reasonable prices. I sometimes bus drivers sorry overwhelmed especially full buses check-in luggage jams !!! They alone.', 'stars': '4'}
+ {'review': 'Flixbus great alternative Deutsche Bahn. In following I count advantages disadvantages. Advantages: - much cheaper Bahn- Sitzplatzgarantie- WLAN (sometimes slow) - mostly clean toiletDisadvantages: - slower Bahn- direct connections offered, changing difficult - many daily connections - delays poorly communicated. (Can happen, congestion, etc ..., train says already 5min notice) All all, I would recommend Flixbus more!', 'stars': '4'}
+ {'review': 'The company seems good quite reliable. Buses usually punctual rarely (2 times / year) I lot delay bus, even though I drive Flixbus twice week. It may lack subscription opportunity could useful commuters. The seats services offered (toilet, wifi, etc.) fine. The stop schedules (according needs) easily accessible convenient.', 'stars': '4'}
+ {'review': 'Unfortunately merger MeinFernbus became expensive reduced offers Groningen. Nevertheless still relatively cheap (thanks voucher;) comfortable. Wi-Fi worked great last trip. Bus left little late, arrived punctually destination.', 'stars': '4'}
+ {'review': 'Flixbus offers best prices comparison brings relatively fast A B. Mostly time always satisfied.', 'stars': '4'}
+ {'review': 'I use Flixbus often I commute 2 cities. Overall, complain, mostly good buses high seating comfort. To bemänglen I would weak wireless connection (unfortunately often fails) bus drivers time pressed noticed also driving.', 'stars': '4'}
+ {'review': 'Getting cheap tickets usually problem, even ride starts; It also great internet bus rarely delays', 'stars': '4'}
+ {'review': 'To get one city another, Flixbus really well suited. The prices really good Stizmöglichkeiten quite comfortable. Hopefully prices remain merger. You could improve delay information. Sometimes happened wait 1 hour bus, without notified track information.', 'stars': '4'}
+ {'review': 'I use offer Flixbus twice week. Apart delays due traffic delays, buses usually punctual. The buses comfortable much cheaper means transport. The simple booking process underlines good service.', 'stars': '4'}
+ {'review': 'Flixbus great way get A B cheaply. I like use long-distance buses connection Wiesbaden - Cologne.', 'stars': '4'}
+ {'review': 'The coach cheap comfortable alternative train. The bus network growing get several locations z.B Berlin. Wi-Fi board sometimes weak. The buses new modern clean .. In case problems, drivers precocious endeavored make passengers happy. Delays sometimes apparent depending traffic situation, Flixbusteam tries avoid traffic jams obstacles. Happy continue like this.', 'stars': '4'}
+ {'review': 'Sometimes breaks far short, 10-15 minutes enough, always least 20 minutes. Sometimes bit cool bus. Wi-Fi often not, every driver knows way around, I ask driver several times Sometimes, non-preheated bus come downhill, unpleasant winter everything great.', 'stars': '4'}
+ {'review': 'Unbeatable price. However, adjust traffic jams tight seats. Wi-Fi never worked me.', 'stars': '4'}
+ {'review': 'Despite slightly longer travel time train, pleasant travel experience. =) Always gladly, also favorable prices, v.a. book advance (2-3 weeks before).', 'stars': '4'}
+ {'review': 'Flixbus offers cheap comfortable travel. I rode flixbus three different routes inside outside Germany. I would recommend case.', 'stars': '4'}
+ {'review': 'Despite hammer price always clean, punctual comfortable. Problems common Wi-Fi sockets.', 'stars': '4'}
+ {'review': 'I drive Hamburg almost every weekend bus, Flixbus good partner. Good price / quality ratio.', 'stars': '4'}
+ {'review': 'I drive every second week FlixBus Vienna Munich 2 exceptions everything always worked smoothly. The bus fast train, considerably cheaper!', 'stars': '4'}
+ {'review': 'I drive twice week FlixBus Kiel Lübeck two exceptions everything always worked smoothly. The bus also fast train, considerably cheaper!', 'stars': '4'}
+ {'review': "All all, I'm happy FlixBus, seats may (although I'm slim) like bit wider, space comfortable long ride often routes I drive except booked last place ...", 'stars': '4'}
+ {'review': 'I often travel back forth Hamburg Berlin FlixBus cases I satisfied. Only often unusable / closed toilets disturb me, well spare buses, possibilities (WLAN, sockets, etc.) available. Otherwise everything good, quickly cheaply A B better Alternative.', 'stars': '4'}
+ {'review': 'Drive since Flix bus often Frankfurt Berlin. Until nothing complain about! The drivers always nice informed everything. If stays way, also price, I continue there!', 'stars': '4'}
+ {'review': 'cheap wlan, cool thing', 'stars': '4'}
+ {'review': 'Finally drive Germany, without spending much money. Thank flixbus, I travel more.', 'stars': '4'}
+ {'review': 'The company "Flixbus" good alternative Deutsche Bahn. Once brought along time, drive cheap one city another cheap! Furthermore, Flixbus almost always socket row seats Wi-Fi, one searches vain Deutsche Bahn.', 'stars': '4'}
+ {'review': 'I made several trips Cologne-Berlin back, always Flixbus. The price-performance ratio definitely right! For 16 € Berlin, take length trip purchase. Congestion affect Flixbus, blame dust-related delays .. Internet works bus, however, never, star less. Otherwise, rides pleasant, seats order socket available.', 'stars': '4'}
+ {'review': 'I love I pay much. Nice you.', 'stars': '4'}
+ {'review': 'As name almost promises, road F (ixbus) quite fast. The value money great opinion superior passenger transport. There deduction points partly unfriendly employees / bus drivers, usually stressed, well frequent delays, happen, factors traffic jams sometimes inevitable.', 'stars': '4'}
+ {'review': 'I always arrived well FlixBus friendly drivers. However, take 15 minutes longer bus lines.', 'stars': '4'}
+ {'review': 'Relatively reliable, punctual comfortable great value money.', 'stars': '4'}
+ {'review': 'Even process sometimes seems somewhat disorganized: The price-performance ratio unbeatable! Top!', 'stars': '4'}
+ {'review': 'Again good travel method, claim spontaneously!', 'stars': '4'}
+ {'review': 'Comfortably safe super cheapPostival surprised', 'stars': '4'}
+ {'review': 'Cheap deals reliable connections, new lines Salzburg Vienna awarded', 'stars': '4'}
+ {'review': 'So far I always satisfied. Good safe A B, especially low price compared travel options.', 'stars': '4'}
+ {'review': 'With good prices service, first choice always', 'stars': '4'}
+ {'review': 'Cheaper, punctual convenient train.', 'stars': '4'}
+ {'review': 'Cheap usually time, good, late info via SMS', 'stars': '4'}
+ {'review': 'Always good prices service', 'stars': '4'}
+ {'review': 'With previous Flixbusfahrten I quite satisfied. However, changing / canceling, unlike e.g. Meinfernbus, fee deducted voucher.', 'stars': '4'}
+ {'review': 'Basically, FlixBus good, unfortunately I 6 times 2 times late, 3 hours, always communicated SMS 1 hours', 'stars': '4'}
+ {'review': 'Twice delay bus, one see traffic highway. Great value money, clean buses, relaxed booking tickets!', 'stars': '4'}
+ {'review': 'Bus comfortable, modern equipped Wi-Fi. The drawback delays, I take price convenience gladly purchase.', 'stars': '4'}
+ {'review': 'cheap practical, sometimes late', 'stars': '4'}
+ {'review': 'So far, everything always worked well', 'stars': '4'}
+ {'review': 'Actually everything worked. Enough space - fast & secure; deduction bus little late;', 'stars': '4'}
+ {'review': "Have used Flixbus often I'm super satisfied. During trips (Frankfurt-Dusseldorf) bus always punctual now. Use offer least month. The buses mostly comfortable value money also great. There point deduction me, last drive, driver drove quite awful also kept unscheduled refuel bus clean it. Do go ride. Could done trip, since 20 minutes away target.", 'stars': '4'}
+ {'review': 'Positive: - legroom - clean toilets - mostly cheapest ones Negative: - always time late SMS - always nicest bus driver', 'stars': '4'}
+ {'review': 'Unfortunately always time, bus drivers keep predetermined breaks traffic congestion sometimes slow operation. The drivers nice happy help loading luggage. Overall, good alternative Deutsche Bahn.', 'stars': '4'}
+ {'review': 'The service good onboard service miserable delays', 'stars': '4'}
+ {'review': 'Cheaper reliable train.', 'stars': '4'}
+ {'review': "The journey Flixbus good. I save lot money drive comfortably desired location without pay attention strikes DB. The bus rides always nice even small accident bus kept driver mood individually health. The thing I liked something negative quality Internet. So I say unfortunately useless. You neither watch videos Youtube answer correctly WhatsApp. But since traveling bus, that's bad low price I forget something like that.", 'stars': '4'}
+ {'review': "Cheap, nice drivers ... overall, I'm really satisfied.", 'stars': '4'}
+ {'review': 'Cheap long-distance bus', 'stars': '4'}
+ {'review': "everything's o.k. nice drivers.", 'stars': '4'}
+ {'review': 'Flixbus great alternative German train!', 'stars': '4'}
+ {'review': 'I used Flixbus time ago pleasantly surprised. The time flew by. The service great price unbeatable. Safe transportation b. Recommend value. I use soon', 'stars': '4'}
+ {'review': 'Everything going great once. The bus 45 minutes late even received text message warning.', 'stars': '4'}
+ {'review': 'Absolute leader Germany! Keep up', 'stars': '4'}
+ {'review': 'So far bad experiences.', 'stars': '4'}
+ {'review': 'Bus drivers often short-circuited communication delays proactive (eg I never received late SMS).', 'stars': '4'}
+ {'review': 'I like driving FlixBus mostly punctual wonderful, cheap alternative train. I use long-distance buses since exist Germany switched another company Flixbus. In cases, drivers guides friendly helpful. In bus I find quite comfortable I always happy case I pay extra without fortune comfortable place sit safely.', 'stars': '4'}
+ {'review': "Although bus always punctual due traffic jams etc. (which is, course, self-explanatory), nevertheless good means transport reliably transports passengers b. Personally, I've experienced nice drivers far recommend FlixBus case.", 'stars': '4'}
+ {'review': "Overall, I'm satisfied. The buses new clean, staff friendly. On routes buses even faster train. Well, I also find lines, even outside really big cities (pour - Paderborn eg faster train). The prices course hard beat anyway. Improvement would opinion wireless bus. In cities, bus stations unfortunately pretty dirty, flixbus probably little influence.", 'stars': '4'}
+ {'review': "I like travel flixbus student long-distance relationship cost-effective alternative train car. Too bad I find connection Emden. Personally, I would happy stretch Emden Paderborn. Maybe it's possible soon :)", 'stars': '4'}
+ {'review': 'I regularly use FlixBus Dusseldorf Bremen. Unfortunately, I already experienced immense delays, since company anything for. The bus drivers usually friendly easy dealing guests. It relaxed A B. There always enough space things university watch movies LapTop. It would nice really always informed delays Wi-Fi bad grottenschlecht.', 'stars': '4'}
+ {'review': 'I use Flixbus frequently route Mainz Cologne satisfied. The rides run smoothly usually time, buses crowded prices reasonable, drawback, Wi-Fi works practically never!', 'stars': '4'}
+ {'review': 'I happy flixbus customer staff super friendly helpful, buses time prices good, I would recommend Flixbus.', 'stars': '4'}
+ {'review': 'Only little things annoying. Overall, right', 'stars': '4'}
+ {'review': 'Flixbus good alternative train. You plan bit time, price unbeatable. Thumbs up!', 'stars': '4'}
+ {'review': 'Very reliable. Particularly noteworthy delay service, usually works reliably.', 'stars': '4'}
+ {'review': 'So far pleasant bus rides experienced. The drivers always brought us safely usually time destination. For price great travel opportunity.', 'stars': '4'}
+ {'review': 'So far I good experiences Flixbus! Most sympathetic bus drivers relative punctuality ... At first still informed delays etc via SMS .. anymore ... bad ... could adjust bit better ... toilets. ..that always problem..they often dirty cleaned times ...', 'stars': '4'}
+ {'review': '... unfortunately rarely time.', 'stars': '4'}
+ {'review': 'Cheap offers throughout Germany! For 18 euros Frankfurt Berlin 6.5 hours dream students!', 'stars': '4'}
+ {'review': "I took Flixbus Munich Frankfurt. Everything fine- way back bus half hour's delay. On whole pleasant ride!", 'stars': '4'}
+ {'review': 'The driver usually friendly, sometimes language barriers, nothing insurmountable. Unfortunately, WLAN rarely works. The cleanliness bus satisfactory. Travel times punctuality almost without exception optimal.', 'stars': '4'}
+ {'review': 'Checkout, equipment coaches punctuality absolutely satisfactory. However, information replacement buses, information delays Fart use replacement buses would desirable.', 'stars': '4'}
+ {'review': 'Simply cheap without complications. A good alternative car train!', 'stars': '4'}
+ {'review': 'All all, I like traveling Flixbus low travel price. Also number connections adequate. What I like drivers familiar services Flixbus, know QR codes 10Stamps one want let ride, I "only" ticket app, synchronized purchase app. He insinuated I paid. I still continue drive Flixbus hope bus drivers better trained future!', 'stars': '4'}
+ {'review': 'Have far made positive experiences trips FlixBus. Only fact toilets occasionally broken, limits satisfaction.', 'stars': '4'}
+ {'review': 'Tlw varies greatly quality depending subcontractor, mostly positive experiences unbeatable prices', 'stars': '4'}
+ {'review': 'The Flixbusses usually punctual, additional employees busy Busbahhöfen answer questions guide right bus. The prices risen bit, probably avoided. I would happy route network would expanded quickly. Definitely perfect alternative overpriced track.', 'stars': '4'}
+ {'review': 'Teething problems always beginning. It bothers travel times calculated tight, must come especially later afternoon inevitably delays. Unfortunately, always communicated time, Cologne extremely uncomfortable Breslauer place persevere - worse Gummersbacher Str. The drivers super-friendly helpful! With safe prudent driving style - important anxious rider. Another small drawback: Not buses right QR code collecting points.', 'stars': '4'}
+ {'review': 'The bus punctual arrived 5 minutes late, construction site highway. Legroom bit scarce. The price unbeatable.', 'stars': '4'}
+ {'review': 'If late due traffic jams good cheap alternative train', 'stars': '4'}
+ {'review': '- low prices - Wi-Fi access works stutter-free entire journey - compensation serious delays (price reduction, vouchers) - yet fully developed system announcing delays (could happen much earlier extensive!)', 'stars': '4'}
+ {'review': 'Although prices risen lately, Flixbus still cheaper mostly far reliable alternative train. The downside comparatively travel options per day - I hope expansion offer, order come times day previously offered A B.', 'stars': '4'}
+ {'review': "My wife I often rode bus. This super cheap great place. The toilet too. Do worry way. We also surf Internet charge empty mobile phone battery. Unfortunately, sometimes internet work well, work, cheaper. The bus always arrive punctually, wait long. That's great choice, long drive, cheap!", 'stars': '4'}
+ {'review': 'I would like firm seats well better luggage control (eg numbering disclaimer) great. The service generally good. Internet works sometimes not, never rely it. Driver mostly friendly outgoing. However, holding always tell moment, lead confusion, miss, place departure, especially lack local knowledge. Also, always notes (eg seat belt) announced. This information urgently provided every driver', 'stars': '4'}
+ {'review': 'Not fast Wi-Fi otherwise good!', 'stars': '4'}
+ {'review': "I driven several times Flixbus. Unfortunately, often late, that's I drive peak times. Super cheap alternative, bus always clean Wi-Fi impeccable. Will drive Flixbus.", 'stars': '4'}
+ {'review': "I often drive route Berlin Rostock back again. The FlixBus good cheap alternative train. The drivers always friendly drive safely destination. However, delays, especially Berlin Rostock, bus Munich comes Germany drives. Long delays I would liked sometimes little attention. Toilets could kept cleaner wifi always good. But I'm happy FlixBus! ^^", 'stars': '4'}
+ {'review': 'I already Flixbusfahrten behind I whole pretty satisfied. It would enjoyable quality buses drivers would quite scattered. I still best rides beginning. Finally, even 3/4 hour departure delay, although would easily avoided. No apology, coupons similar.', 'stars': '4'}
+ {'review': 'Flixbus great way get A B cost-effectively conveniently. Precisely technical equipment, residency time passes quickly, something college work. Unfortunately, bus drivers sometimes seem bit uninformed, know second bus provided comes. In cases, replacement buses still outdated higher passenger numbers, comfort leaves something desired.', 'stars': '4'}
+ {'review': "Flixbus long distance bus provider I drive since I quite satisfied Flixbus.Schoener bus, nice bus driver, pleasant climate .... thing bothers much reliability related delays. Flixbus almost always late several minutes. But that's thing I stop", 'stars': '4'}
+ {'review': 'The cheap alternative train.', 'stars': '4'}
+ {'review': 'very good value money', 'stars': '4'}
+ {'review': 'Cheaper hardly travel service offer good.', 'stars': '4'}
+ {'review': 'Usually time', 'stars': '4'}
+ {'review': 'cheap fast super !!!', 'stars': '4'}
+ {'review': 'You danger traveling train, spend travel time standing up. The low prices even keep prices ride. And free Wi-Fi, journey time passes super fast.', 'stars': '4'}
+ {'review': 'As frequent Vienna Munich driver much better Meinfernbus.de, highway travel time. Too bad Westbahn / Flixbus discontinued. The buses always half occupied. Wi-Fi unfortunately Austria many buses Oberbayern replacement buses', 'stars': '4'}
+ {'review': 'I like use prices great. However often exactly morning time. I often come across commuter. Otherwise nice drivers good service.', 'stars': '4'}
+ {'review': 'Super service, case delays notified SMSSuper nice Mitarbeiter.Bin satisfied everything', 'stars': '4'}
+ {'review': 'as long travel long WE rather problematic Sunday Sunday Leipzig - repeated late unclear communication flixbusCentrale- perhaps Leipzig get ZOB currently Goethestrasse waiting waiting bus around corner turns one green unpunctual unbeatable price!', 'stars': '4'}
+ {'review': 'Although bus usually 30 minutes late, since occurs car traffic jam train often, FlixBus priced much cheaper, FlixBus first choice.', 'stars': '4'}
+ {'review': 'I drive often Flixbus Flixbus long-distance buses take children free.', 'stars': '4'}
+ {'review': 'My trips Flixbus always impeccable almost always punctual. However, ferry refrain talking phone - albeit hands-free - simply distracts much!', 'stars': '4'}
+ {'review': 'With drivers, I always satisfied, nice, helpful, time time unfortunately bad communication, regarding late. In bus also sms e-mail ride. The toilets good, rides cheap case problems, driver always ear open. Unfortunately Internet usually radio, slowly, make even competitive! In short: I would recommend it!', 'stars': '4'}
+ {'review': 'Punctuality clearly related traffic roads. You prepared, even independent rail network. The travel times usually morning noon, sometimes less more. Flexibility thus limited. The prices unbeatable, please stay it! At prices, I also without best conscience comfort. The W-LAN bus works depending distance Passagiersanzahl.Da I drive place study time time hometown even student bear high travel costs, Flixbus number one point contact I look rides everything together: Cheap prices, numerous rides, first-class comfort, etc. clear everyone I think Flixbus made good compromise everything.', 'stars': '4'}
+ {'review': 'The rides great cheap. I grds. satisfied!!!', 'stars': '4'}
+ {'review': 'Flixbus cheap compared companies. Traveling usually made quite pleasant, usually due external circumstances (low speed, traffic jams, etc.) quite strenuous longer routes.', 'stars': '4'}
+ {'review': "You complain prices. Sometimes get stuck traffic jam, that's is. However, I would like buses even sockets!", 'stars': '4'}
+ {'review': 'Flixbus offers numerous connections constantly increases offer. Unfortunately, I often accept high delays hour. However, justified general traffic situation. Basically, trips Flixbus relatively cheap stress-free. Unfortunately, I noticed rise price level.', 'stars': '4'}
+ {'review': "The value money right I'm happy bus. However, I drove yesterday bus Tübingen Schwenningen arrived unfortunately 1 hour delay, without message (SMS). That thing I would complain about. Besides that, everything okay :)", 'stars': '4'}
+ {'review': "You enough space bus compared competition. The offers usually quite good. The WLAN rarely works. The drivers safe far. The service SMS case delay bus still needs improved - apparently central offices always contacted case delay drivers whatever happens there. In summary, one say largest route network favorable prices largest, call 'comfort' '(especially trips> 3 hours pay attention) offered.", 'stars': '4'}
+ {'review': "I like travel Flixbus, buses usually time, notified late, many connections travel comfortably cheaply. The criticism recent low continuously rising prices, point high costs feared. That's I award 4 5 stars.", 'stars': '4'}
+ {'review': 'I think great idea. .price price comfortable :)', 'stars': '4'}
+ {'review': 'The bus already departure time. This exception track. It could well time I driven different time. Hopefully keep up!', 'stars': '4'}
+ {'review': 'If want cheap trip A B without comfort, Flixbus place you.', 'stars': '4'}
+ {'review': 'Flixbus good travel option. They almost always time, staff friendly prices great.', 'stars': '4'}
+ {'review': 'I find track long-distance bus well. The wireless board reliable allows working go, also ride staff friendly courteous. About prices I complain. The thing bothers rarely Fahrten.So bus goes Dortmund Kassel 1 time day. In long-distance travel companies, however, 4 times day. Otherwise, I highly recommend FlixBus', 'stars': '4'}
+ {'review': 'Already parmal Flixbus driven ... satisfied once, 25 minute delay announced ladies call center overwhelmed .. bit annoying', 'stars': '4'}
+ {'review': 'The price simply unbeatableWe hope stays way routes I leave car drive rather bus But repost posting Bavarian bit inconvenient things, staff annoyed!', 'stars': '4'}
+ {'review': 'My second first trips Flixbus easy, delays, next trips I got good service.', 'stars': '4'}
+ {'review': 'Comfortable cheap. Unfortunately, always work, notification via SMS delays.', 'stars': '4'}
+ {'review': 'A cheap alternative Deutsche Bahn! I regularly drive route Bremen Lübeck would pay € 33-40 way train. With Flixbus I come 11 euros way. My tip: enjoy late evening early morning, afternoon buses often arrive late, depending coming from.', 'stars': '4'}
+ {'review': 'We left time, Berlin. But already halfway water bus toilet. Almost gasamte long distance Cologne time. But finish long traffic jam right lane. Instead driver changed track, stood stubborn right. The two tracks rolled. That brought us whopping half hour delay extra, close finish.', 'stars': '4'}
+ {'review': 'With rides (more 10) everything become better course time, unfortunately bus still run Bochum. Then thing sockets, unfortunately desired.', 'stars': '4'}
+ {'review': "Basically, I satisfied services Flixbus. The flaw I cite often toilets vehicles inadequately cleaned. Until now, buses I've traveled punctual. I drive exclusively route Bamberg - Stuttgart / Airport.", 'stars': '4'}
+ {'review': 'Sometimes little late, otherwise one best! Good price. Nice drivers', 'stars': '4'}
+ {'review': 'Reasonable comfort reasonable price, perfectly fine. The point criticism would delays buses Internet usually appear bus arrived. Sure, congestion like Flixbus influence, expected delays. However, would nice information route information would entered quickly.', 'stars': '4'}
+ {'review': "The Flixbus great alternative train, it's totally comfortable relaxing ride also cheap.", 'stars': '4'}
+ {'review': 'I drive route Berlin Hamburg regularly. The buses 90% time, traffic jam road, one anything. The bus drivers friendly help suitcase loading. Especially great 2 suitcases taken free. Some tickets also cheap buy shortly departure regular discounts. It pity especially section often drives spare bus, offers Wi-Fi. In addition, would desirable able rebook purchased ticket extra cost, case.', 'stars': '4'}
+ {'review': 'Very reasonably priced, reliable Reisemöglichkeit.Connections almost major cities.Longer delays rarely experienced far. Of course, unfortunately much longer travel times absurdly overpriced train.', 'stars': '4'}
+ {'review': "Everything impeccable, simple, safe fast. I'm happy flixbus. But 1 criticism book toddlers tickets extra charge must call.", 'stars': '4'}
+ {'review': 'I recommend ! The offers contrast providers significantly cheaper. The rides always pleasant drivers friendly. Always happy !', 'stars': '4'}
+ {'review': 'In northern Germany, route network developed satisfactorily. Connection Hamburg - Flensburg exist de facto reached FlixBus Hamburg - Kiel, change, Kiel - Flensburg. However, theoretically - waiting connection unjustifiable. Occasionally slightly late. Otherwise great service, easy booking, reasonable prices, many offers friendly staff', 'stars': '4'}
+ {'review': 'Although Flix always comes late, would recommended. ride pleasant.', 'stars': '4'}
+ {'review': 'Previous trips reliable punctual. The offers invite spontaneous trips. The connection local connections sometimes optimal.', 'stars': '4'}
+ {'review': 'A lot connections within Germany it. Good app always informed timely manner.', 'stars': '4'}
+ {'review': 'Flixbus dense network offers unbeatable prices special offers. The journey bus comfortable access electricity internet time flies by. The booking website simple intuitive lists necessary information. Only frequent delays provide grounds criticism.', 'stars': '4'}
+ {'review': "I admit often happened Flixbus cheapest bus connection route. And that's I've stranger times ;-) Overall, I find offer service pretty good, improvement would consistent notification delays. Yes, delays ... You always like complain train delays, ever got stuck car traffic jams rush hour, able imagine buses affected. And bus providers. As I said, I already driven different bus lines delays somehow part it. My conclusion: Thank competition long-distance traffic. I thank low prices delays benevolent!", 'stars': '4'}
+ {'review': 'I driving Berlin-Rostock route year good experiences Flixbus. The prices far cheap (5-9 €). However, since route used day Flixbus getting better known, even two weeks quota low prices fully booked. It often comes delays existing Wi-Fi working toilet always reliable. However, safety road, matters end, always given.', 'stars': '4'}
+ {'review': 'Seat reservation possible free. BUSISTERS better trained (friendliness customer orientation)', 'stars': '4'}
+ {'review': 'My experience Flixbus: Positive: As good always time much cheaper example train, even book week advance. Secure buses sockets seats. Negative: WLAN always work', 'stars': '4'}
+ {'review': 'Flixbus one cheapest companies take Dresden Berlin sometimes somewhere else. The bus drivers always friendly. Unfortunately, sometimes WLAN work, annoying. For bus companies, however, I found problem much often. Flixbus eyes best value money.', 'stars': '4'}
+ {'review': "I travel relatively frequently Flixbus always satisfied. The buses usually go time, comfort criticized drivers friendly. However, booking tickets often difficult task due mostly congested website. Just canceling redeeming coupons often problem server suddenly crashes booking process. If Flixbus still working it, I'm completely satisfied.", 'stars': '4'}
+ {'review': 'Prices reasonable. Seat slightly hard. Will uncomfortable driving. Most bus drivers nice.', 'stars': '4'}
+ {'review': "if want travel cheaper train, get around Flixbus. Only delays due current traffic conditions roads always great. But give mobile number buying tickets, informed time. So all, round thing, car train, it's usually faster.", 'stars': '4'}
+ {'review': "Transport conditions i.A. it's perfectly alright.; Booking conditions partly-partly ...", 'stars': '4'}
+ {'review': "So far, I good experiences Flixbussen. Delays communicated time SMS, I also noticed every passenger receives notification, often confusion, get notice, others not. Otherwise, I personally complain, since I'm good always timely safely arrived destination. The drawback twice expensive prices, want buy tickets DIRECTLY bus. I understand, all, customers always take risk, get NO card anymore. And pay twice much risk? This definitely understandable really changed opinion.", 'stars': '4'}
+ {'review': 'Sometimes bus later.', 'stars': '4'}
+ {'review': "It cheap transportation company, expect much, get exactly pay for. The comfort acceptable level, 5 hours I would want spend bus. You run risk landing traffic jam, often delays, one anything. The drivers indeed: tired bit listless. I think it's really scary now, profit modest, saves money every corner. Feel people live dream world, 20 euros: A B luxury bus + 2 highly motivated drivers massage ... go", 'stars': '4'}
+ {'review': 'On whole, I recommend driving FlixBus. Personally, I usually drive route Hamburg-Berlin back again. I always get times usually two buses used. Both drive safely I always understand one bus taken last seat sometimes 10 people seated bus. If anyway two buses go, spread better.', 'stars': '4'}
+ {'review': 'A media library missing, otherwise hardly anything complain about. The buses relatively punctual I come well A B.', 'stars': '4'}
+ {'review': 'The Flixbus good alternative train. The route network optimally developed. However, often times kept.', 'stars': '4'}
+ {'review': 'So far I always happy Flixbus. Chemnitz - Nuremberg punctual, gladly again!', 'stars': '4'}
+ {'review': 'Cheap tickets, comfortable buses good facilities. Most time buses time. The booking system could improved. There couple hiccups driving backup buses.', 'stars': '4'}
+ {'review': 'So far, I quite satisfied. Delays could better communicated. Seats comfortable, buses usually crowded. Keep up.', 'stars': '4'}
+ {'review': 'Flixbus provides good buses comfortable seats, prices usually really fine. Compared train buses already top value money. The staff usually courteous also willing think act practically, blindly, situation requires - case rail - invoke compliance contractual standards principles thus help Page stand. Very good!', 'stars': '4'}
+ {'review': "Unfortunately, I noticed lately prices went up..I think it's pity. Otherwise great service.", 'stars': '4'}
+ {'review': 'My previous experience Flixbus (about 30 trips) good. It cheap alternative train car. The feeling security good; rides would time. Only occasional use relatively uncomfortable replacement buses affects positive overall impression', 'stars': '4'}
+ {'review': 'Only criticisms / Suggestions improvement: -WLAN slow meaningful use-Better notification customers case delays', 'stars': '4'}
+ {'review': 'FlixBus alternative train car me. Good connections, friendly bus drivers, comfortable driving, small price. At Punktlicheit realistic arrival times still needs worked.', 'stars': '4'}
+ {'review': 'good choice offers time good prices, route bremen hamburg opinion bit expensive! save drive. unfortunately sometimes bit crowded bus. toilets stink much bus driver could also little friendlier. otherwise I like travel flixbus eigendlich even regularly like continue.', 'stars': '4'}
+ {'review': 'The value money true. The bus drivers usually nice drive dutifully. The thing I criticize latencies 45min lately. comes fewest cases SMS (indicating mobile number) informed telephone service always satisfactory. Several times I received incorrect coupon codes, I call fee. This exception.', 'stars': '4'}
+ {'review': 'The bus driven minute arrived time. Luckily busy usual time. It fine ok.', 'stars': '4'}
+ {'review': 'If time reserves, Flixbus offers, journey often much cheaper. The price main criterion. In comfortable traveling roads clear.', 'stars': '4'}
+ {'review': 'So far I always driven route Berlin-Rostock vice versa 5-9 €. For I regular departure delays 15 minutes, broken toilets available Wi-Fi purchase. For price also make compromises. The safety driving always given I always felt safe well. However, prices risen I also partially use Meinfernbus, since price 11 € bit better equipment quality offered (WC , punctual departure).', 'stars': '4'}
+ {'review': 'Clear service book tickets online. Flixbus offers pleasant ride regard comfort, value money friendliness. Apart that, occasionally lack helpfulness luggage, since suitcases backpacks time time heavier need assistance. Otherwise, nothing bemaengeln .Many Thanks!', 'stars': '4'}
+ {'review': 'easy booking, usually cheaper price, delays could communicated earlier', 'stars': '4'}
+ {'review': 'I almost always satisfied, unfortunately rows seats often close hardly room legs.', 'stars': '4'}
+ {'review': 'Flixbus frequent traveler perfect cheap alternative train. The prices comfort Flixbus always good. You could still work punctuality downhills.', 'stars': '4'}
+ {'review': 'I think bus time. otherwise passengers late businesses.', 'stars': '4'}
+ {'review': 'You travel comfortably. Until now, despite frequent use, never delays> 10 min. The drivers mostly friendly, except case snippy polite request help loading suitcase refused ("I look like pack donkey ?!") passengers help (04.08.2014, 12: 3 pm Berlin Südkreuz Dresden). The advertised Wi-Fi often available signal weak. Ticket cancellation via website possible several occasions, reaction cancellation via email. As long prices remain cheap, I continue use Flixbus service.', 'stars': '4'}
+ {'review': 'I often driven Flixbus, I like simple booking Internet (ticket comes via email, showing phone enough). Delays usually announced via text message, otherwise inform website. Had nice relaxed bus driver (with one exception), buses clean also usually punctual (there delays Fridays), price Flixbusse clearly best. Have already tested long-distance buses, Flixbus always clear favorite, especially frequent trips clear alternative train. The criticism stop (Cologne). It could clearer wait. Otherwise, gladly again.', 'stars': '4'}
+ {'review': 'Everything great! The Flixbus Berlin super punctual surprisingly comfortable, driver nice, toilet clean cheap. Basically real criticisms, one star I deducted, called "fake rating";)', 'stars': '4'}
+ {'review': 'I often ridden FlixBus. It convenient possibility carry lot luggage (two suitcases hand luggage), easily pack even longer trip. The buses always clean have, even longer trips, enough legroom. If traffic conditions allow buses punctual. Unfortunately, wireless always perfect. Also rides (due many stops) take longer train ride, I recommend trip FlixBus.', 'stars': '4'}
+ {'review': 'Cheaper carpooling convenient bus-friendly, helpful staff. Unfortunately also time time also big delays, would better, bus opener day would drive! Wi-Fi available every bus.', 'stars': '4'}
+ {'review': 'I think FlixBus good. The delays quickly announced via mobile phone, unfortunately common :-( What I like one drivers always calls loudly, drivers always attentive nice. Always pleasant ride.', 'stars': '4'}
+ {'review': 'Never problems, always minute punctual nice bus driver & prices rarely find something comparable.', 'stars': '4'}
+ {'review': 'For time runs route Göttingen-Dresden long-distance bus Association Flixbus. Since I drive back forth month, offer asset me. From on, I longer use often unreliable expensive train. In addition, bus bit faster train connection, change. Delays greater 10 minutes far, used offer 7 times back forth. Coffee available board thermos reasonable prices. The point departure departure point Göttingen (purchase park), poorly connected public transport, reliability timetable worthy improvement. This published 4 weeks Veraus changed often, even bookings already possible. Refunds easily possible, reliable different.', 'stars': '4'}
+ {'review': 'Perfect communication, also comfort price ratio, flexibility. The disadvantage - possible delays police control.', 'stars': '4'}
+ {'review': 'Professional staff members provide instructions address questions polite way. Free Wifi coaches, clean comfortable buses.', 'stars': '4'}
+ {'review': 'Have good experiences Flix. Have taken flix Copenhagen Jutland sometimes fine. The downside really hold somewhere buy coffee little eat. Since I lot receipts, I wrote put together one proof without rubbish. Departure time always arrive safely. Good prices, especially student. Going flix weekend booked ticket Berlin. The drivers I met good helpful.', 'stars': '4'}
+ {'review': 'Very ok service buses packed. More time. As positive comments I would put veto state toilets lack break time.', 'stars': '4'}
+ {'review': 'Coach, driver, comfort, timing - good. But informant/ information boarding point (Leipzig).', 'stars': '4'}
+ {'review': 'Good service, time departure arrival. Kind staffs.', 'stars': '4'}
+ {'review': "Additionally done German, stops need announced English language. Germany hosts tremendous amount foreigners, yet non-German speakers mostly; please make feel home. That wouldn't anything increasingly grow customer base.Thank you!", 'stars': '4'}
+ {'review': 'I heard harsh opinions Flixbus (especially regarding behaviour drivers) - I took trip Prague Znojmo I problems really. It fine.', 'stars': '4'}
+ {'review': 'Flixbus great budget travelers. One thing keep mind cannot book seats booking tickets, booking early early station guarantee best seats. In cities really hard find Flixbus stop, even google maps.', 'stars': '4'}
+ {'review': 'A useful travel means unplanned trips cheaper costs', 'stars': '4'}
+ {'review': 'It nice experience. The drivers helpful luggage. The bad thing air conditioning system I guess.', 'stars': '4'}
+ {'review': 'it nice company. need improvements regarding suggestions provided. also please let driver speak announcements also English', 'stars': '4'}
+ {'review': 'Punctual service, comfortable bus, clean.', 'stars': '4'}
+ {'review': 'There internet electricity recharge mobile.', 'stars': '4'}
+ {'review': "The trip pleasant. The things bothered us little bus departure delayed, bus arrived around least 30 minutes late wasn't announced. This affected whole schedule day, people waiting us arrival wroclaw late created frictions. Also, bus driver could helpful :)", 'stars': '4'}
+ {'review': "I think it's best means travel student. Because provide necessary service plus reach time. Maybe thing could improve upon add night time buses people commute throughout night visit places return back next morning fresh new sun.", 'stars': '4'}
+ {'review': 'OK, internet bus work, announcements French.', 'stars': '4'}
+ {'review': 'Quite good price/performance. Would better indication Flixbus flag departure points.', 'stars': '4'}
+ {'review': 'The travel OK.', 'stars': '4'}
+ {'review': "Great bus, modern, clean tidy. Had 0 problem whatsoever. Internet great, really luxury longer trips. Drivers professionals, also comment. Overall great. 2 downsides, 1 personal thing.. 1. There 25min late departure Maribor, I didn't appreciate, it's understandable longer distances anything cause delay. The second thing I taller guy, therefore I didn't really enough room legs... This nuisance time time bus hit bumps holes road knees got hit seat front me. Otherwise great experience, would definitely recommend, didn't problems payment tickets. The mobile app also helpful.", 'stars': '4'}
+ {'review': 'I recommend Flixbus all', 'stars': '4'}
+ {'review': 'Bus clean, comfortable charging ports. Could better wifi unlimited signs pick place visible hard time finding it. Overall good choice inter state travel Italy.', 'stars': '4'}
+ {'review': "Overall: super clean, punctual friendly drivers. Small issues: seats aren't comfortable 6 feet tall, head rests low adjustable, full-sized power outlets available (we USB power cables trip).In end: I would definitely use Flixbus again, I'd plan better next time :)", 'stars': '4'}
+ {'review': 'First time enjoyed. On timeWas I expected. Will come next time.', 'stars': '4'}
+ {'review': 'Good n cool ride bus stations need advertised better.', 'stars': '4'}
+ {'review': 'Good alternative cheap travel. Almost good train travel fraction price.', 'stars': '4'}
+ {'review': "Driver good polite speaks english. Departure place wasn't good, afew place seat internet wasn't perfect ok plug seat perfect", 'stars': '4'}
+ {'review': 'In bus smell toilet', 'stars': '4'}
+ {'review': 'I went Milan - Bergamo Genova, nice ride, bus came Milan time, Genova 40 minutes later. But nice, comfortable I really recommend bus you.', 'stars': '4'}
+ {'review': 'Convenient price well oriented drivers , bad wifi onboard', 'stars': '4'}
+ {'review': 'Enjoyed way condition bus.', 'stars': '4'}
+ {'review': 'it nice comfortable trip.', 'stars': '4'}
+ {'review': "I always using FLIXBUS, feel calmly professional team. Sometimes it's late 10 50 minutes, think normal. Also, hope use internet future better.", 'stars': '4'}
+ {'review': 'If going travel decided. Choose Flixbus!', 'stars': '4'}
+ {'review': 'I enjoyed trip functional. Pity internet connection.', 'stars': '4'}
+ {'review': 'Comfortable, pretty quick super easy book online', 'stars': '4'}
+ {'review': "It's first time I took Flixbus. In general, service company par services get train. Of course, time travel another matter cannot compared either fast train air travel. For price services, it's have. I don't know could resolved bus companies Flixbus maybe could think better ways provide comfortable travel. It's easy sit 12-14 hour travel. At one point, seats sliding can't really stay seated properly without slipping it's really impossible get good sleep. Couldn't Flixbus offer bed (sleeper-bus cabin/pods) facility night trip?", 'stars': '4'}
+ {'review': 'The travel happy. It comfortable environment. But wifi really bad.', 'stars': '4'}
+ {'review': 'As expected. I booked trip stops, 9 total, many I think it. Otherwise, bus clean, chairs recline, outlet st every seat plug electronics, air. Carry neck pillow able sleep!', 'stars': '4'}
+ {'review': 'Very good company, easy buy tickets relaxing trip. The drawback bus short space legs also hand-luggage.', 'stars': '4'}
+ {'review': "It comfort trip, time-schedule accurate, wifi good. The driver know English since I'm German quite difficult communicate", 'stars': '4'}
+ {'review': 'nice, little delay', 'stars': '4'}
+ {'review': 'Flixbus...friendly, clean comfortable', 'stars': '4'}
+ {'review': 'Need manage luggage stowage rather leave passengers.', 'stars': '4'}
+ {'review': 'Great adventure, easy catch, clean, free wifi', 'stars': '4'}
+ {'review': 'Cheap, fast friendly. The downside bus I booked got cancelled last minute. But, I rebooked later bus automatically (I got email notification) delayed one hour (however, late night... still bit worrying woman travelling alone)', 'stars': '4'}
+ {'review': 'On time , luggage perfect way, driver cool helpful', 'stars': '4'}
+ {'review': "I used FlixBus several times 2 weeks Germany tour great value money. Buses comfortable, air conditioned, adequate leg space seats free Wifi board. Always time except once. Ability reschedule departure time easily tiny rescheduling fee. All I good experience FlixBus I would definitely use it's much much cheaper train service Germany.", 'stars': '4'}
+ {'review': 'Flixbus one better bus companies.', 'stars': '4'}
+ {'review': 'overall good experience I expected despite negative reviews. Would great reduce change time driver.', 'stars': '4'}
+ {'review': 'Great service affordable Bus waiting station 30 min departure. Driver helpful people walking asking questions bus pickups ext', 'stars': '4'}
+ {'review': 'Good connection Munich airport. Good value money.', 'stars': '4'}
+ {'review': 'It first time using Flixbus overall pleasant ride Rostock Berlin Tegel Airport.', 'stars': '4'}
+ {'review': 'I think book next travel..Thank you!', 'stars': '4'}
+ {'review': 'We little late trip, ok. The brakes could longer, could better A/C, generally trip pleasant. I recommend buses.', 'stars': '4'}
+ {'review': 'Great Service!', 'stars': '4'}
+ {'review': 'Everything superb except punctuality! 1h40min delay middle night makes unpleasant start journey.', 'stars': '4'}
+ {'review': "o'clockreliablewifi depends buscleaness depends bus", 'stars': '4'}
+ {'review': 'The flixbus services especially punctuality wonderful. This third time traveling I appreciate service terms punctuality.', 'stars': '4'}
+ {'review': "After reading negative reviews, I even think bus would come. But came 10 minutes departure departed exactly supposed to. The driver nice drove quietly well, bus comfortable toilet. Likes footrest. Saved 160 kr go them. On way back, two minutes late. All I complain about, you're going complain, seat belts, belt around waist.", 'stars': '4'}
+ {'review': 'Super duper :-):-):-)', 'stars': '4'}
+ {'review': "It's nice ,safe clean service. however, got picked 52 minutes schedule time,but don't know reasons.", 'stars': '4'}
+ {'review': "Went bus Innsbruck Munich home evening, worked well! Good price, fresh buses nice bus drivers. So, worthless, many people write here, it's unscrupulous company. There lots buses Munich's bus station seem many travel Germany.", 'stars': '4'}
+ {'review': "Flixbus good cheap way travel. comfortable clean. also easily charge phone. There space luggage seating spacious. Toilet could cleaner wifi sadly didn't work. BUT I would use Flixbus again!", 'stars': '4'}
+ {'review': "I don't much experience coach services, however reservation ride quite smooth :-)However, one bus, power outlets didn't work lot (most?) passengers weren't able connect WiFi.", 'stars': '4'}
+ {'review': 'A good experience cheap tickets.', 'stars': '4'}
+ {'review': 'An efficient smooth journey good bus wifi Bratislava Vienna airport. A good price, too.', 'stars': '4'}
+ {'review': "After two trips Flixbus, I would recommend it, side notes. The first trips went practically flawless. I happy power outlets every seat good wifi connection (even though it's allowed take much bandwidth, since shared among users, I couldn't resist speedtest near end trip, showed 10mbps connection, excellent users long don't hog streaming music movies warned use). There also enough leg space long legs.The second trip, however, delayed, bus arrived clearly replacement. Therefor, lacked wifi, overhead space little smaller, still enough fit backpack, leg-space acceptable legs.Overall, assuming actual flixbus drive you, I highly recommend it. How often replacement bus used them, I obviously don't know.", 'stars': '4'}
+ {'review': 'Excellent journey Szczecin Berlin - comfortable, clean bus on-time departure arrival.Szczecin station → Berlin ZooSunday, July 23, 2017, 13:00', 'stars': '4'}
+ {'review': 'Clean bus (including toilets), good value.', 'stars': '4'}
+ {'review': 'Easy book, affordable. Friendly drivers.', 'stars': '4'}
+ {'review': 'Better take direct bus morning. Delay happens many times traveling changing bus.', 'stars': '4'}
+ {'review': "The WiFi connection existed didn't work.It little hard find specific bus stop terminal written small PDF I didn't see ride operated another firm bus looked different. Other that, great service.", 'stars': '4'}
+ {'review': 'Kind professional driver. Sometimes announcements made GermanDon`t count wifi aboard. And don`t make small connections buses. On road Munich Berlin traffic jam bus came Munich 40 min late.', 'stars': '4'}
+ {'review': 'It interesting experience, started time, delayed -(stopped border), end journey everything ok. Friendly drivers.', 'stars': '4'}
+ {'review': 'I’ve made bad experience Flixbus. After I missed bus, I wanted cancel return ticket. I manage cancel trip website, I asked cancelled via e-mail two days BEFORE return trip planned.After week I got message I didn’t cancel trip least 15 minutes prior departure although e-mail showing clearly I did.So keep 130 € service provided. I would agree paying half ticket missed bus destination.But keeping money entire trip pretty much theft.Update: Flixbus reconsider case, I greatful that.', 'stars': '4'}
+ {'review': 'Excellent value money, issues overall, none critical (e.g. error booking, easily quickly resolved booking, WiFi unreliable).', 'stars': '4'}
+ {'review': 'Other cleanliness facilities, bus ride comfortable.', 'stars': '4'}
+ {'review': 'Like price bus situation! Maybe next time time!', 'stars': '4'}
+ {'review': "I'd never heard Flixbus trip, great way travel. I crossed Italy Naples Pescara although journey 4 hours felt much less. And much less hassle train plane. Clean, comfortable coach ( seatbelts) air-conditioning. The wifi worked perfectly way - it's moment board bus.Just wish notices tell people speak quietly insist phoning everybody know duration journey!!", 'stars': '4'}
+ {'review': "thought it's nice pick certain place fill maybe miss times dinner there's bit bit morning time nice get kbh get lot day", 'stars': '4'}
+ {'review': 'it good comfortable toilet working due technical issue.', 'stars': '4'}
+ {'review': "The journey Kodan Berlin line bc N32, excelent following one number line 060 (from Berlin Prague) horrible I disapointed behaviour uncorrect bus drivers. I pleased 5 minutes waiting without results. I worry future careful ! That's good point ! Anyway... line N260 great also.", 'stars': '4'}
+ {'review': 'It good trip time bus.', 'stars': '4'}
+ {'review': 'The trip OK, bus clean, price, travelling time delay acceptable, easy buy ticket. It nice get message delay. The green image easy recognize, even bus delays rolls necessarily given I would pleased home page I would able scan stops along routes.', 'stars': '4'}
+ {'review': 'Bus 45 minutes late thankfully notification sent around 30 minutes before. Friendly driver, compfy seats. Unfortunately toilet bit gross end 12+ hour trip, paper towel.', 'stars': '4'}
+ {'review': 'I rebooked free via FB Mesenger bus running later next available bus.WiFi login works smart people.Power outlet work.', 'stars': '4'}
+ {'review': 'It would better chair fluffy comfortable. But afford kind service convenience, use further.', 'stars': '4'}
+ {'review': "The staff kind. I liked him, seat good. But don't seat close toilet. You smell always untill get destination. It strong, good.", 'stars': '4'}
+ {'review': "Good service, clean, internet works well, well organized little late case that's probably usual.", 'stars': '4'}
+ {'review': 'It punctual driver friendly. He even stopped 30 minute rest stop break. However bus semi-clean (trash left previous passengers) wifi coach. However, I would still recommend family member friend. The price affordable!', 'stars': '4'}
+ {'review': 'Nice trip safe punctuation', 'stars': '4'}
+ {'review': 'decent treatment little friction.', 'stars': '4'}
+ {'review': 'Everything satisfactory. Seat reservation possible. Nice travel', 'stars': '4'}
+ {'review': 'My experience 3 hr ride really good bus. I would recommend try out.', 'stars': '4'}
+ {'review': 'It nice, comfortable trip arrived almost hour later Prague.', 'stars': '4'}
+ {'review': 'Very good ride service.', 'stars': '4'}
+ {'review': 'Travel took place specified time-frame. Staff friendly coach comfortable. Provision power sockets would welcome improvement.Will repeat, sure.', 'stars': '4'}
+ {'review': 'Punctual,clean seat number tickets.You may change seat several times majority people seat numbers', 'stars': '4'}
+ {'review': 'Flixbus easy book on-line overseas, kept contact emails days used gave opportunity change add details mobile contact number. All good first time travelers nervous bus system works Europe.. The bus arrived time driver took little time work ticket names finally confirming phone app. The driver opened luggage storage compartment put suitcases help. We left seven minutes timetabled 15:30. The bus rather dirty empty drink bottles snack packages littered seats little disappointing. No announcement made arrived Mullhouse central train station name announced arrived destination. It good experience could better.', 'stars': '4'}
+ {'review': 'Quick easy way travel', 'stars': '4'}
+ {'review': 'Great travel comfy seats flixbus/ indeed punctual time #bonus great Wi Fi onboard', 'stars': '4'}
+ {'review': 'The ride comfortable clean. The station shelter place sit. Luckily sunny day luggage hold weight.', 'stars': '4'}
+ {'review': 'Directions boarding bus stop could better someone new city.Like second trip... Returning florance Milan I missed bus. I florance railway station running around 15 mins asking directions bus stop missed bus minute.Thankfully second bus hour later I booked it. But directions bus stop Florence better I would got first bus pay twice.', 'stars': '4'}
+ {'review': 'Very nice working, little information could useful (especially people speaking local language).', 'stars': '4'}
+ {'review': 'Smooth safe driving.Wi-fi barely works.', 'stars': '4'}
+ {'review': 'It good trip capable driver, tried best get us points time caution, would like friendly disabled passengers good definitely use service again.', 'stars': '4'}
+ {'review': 'The bus arrived schedule. The driver nice helpful.', 'stars': '4'}
+ {'review': 'Nice bus. Good driver. Only suggestion would ensure cabin temperature comfortable supply blankets like airplane does. Was absolutely freezing overnight.', 'stars': '4'}
+ {'review': 'So far good. Very punctual normally seats clean ready someone hours. The internet work better.', 'stars': '4'}
+ {'review': 'Just like need', 'stars': '4'}
+ {'review': 'Had nice overall experience.I traveled Flixbus Brussels Rotterdam, Rotterdam Paris Paris Brussels. The toilet nice, seats comfortable. There sockets (although one bus USB cables). The WiFi worked fine messaging. The drivers spoke English willing answer questions any.Small downside: 3 buses 5 minutes late.', 'stars': '4'}
+ {'review': 'Good bus. internet wall socket charger. pretty comfortable ride.', 'stars': '4'}
+ {'review': "Smooth pleasent trip. Our Coach driver really helpfull friendly. Even though admited can't really speak English well able communicated well. Even reached destination.. He helped us find taxi cab us 4 women travelling together abs 4.30am. Sorry we.didn,t get name though.", 'stars': '4'}
+ {'review': 'Good service', 'stars': '4'}
+ {'review': 'Everything fine apart small things: garbage seat pocket. Also internet available.', 'stars': '4'}
+ {'review': "it good option vs. train Zurich Munich, tourists who'd like see countryside, Flixbus provides great service.", 'stars': '4'}
+ {'review': 'Flixbus comfortable travelling. I would suggest everyone.If drivers change attitude towards passengers would best choice travelling.', 'stars': '4'}
+ {'review': 'I positively surprised, professional, clean time. Comfortable seats (although I lucky sat alone whole journey)...the internet missing bus brand new introduce one yet... (which far negative point)', 'stars': '4'}
+ {'review': 'Convenient trip affordable price', 'stars': '4'}
+ {'review': "We 2 Indians travelling Paris Utrech. He asked us show passport Identity I know it's job. But ask us others, seems odd. I think supposed everyone ID. I don't want make big issue this. Otherwide ride great, comfortable I would like go Flix bus again.Thanks", 'stars': '4'}
+ {'review': 'Fast travel without pause. Courteous punctual driver. The stop wearing jersey massy practical.', 'stars': '4'}
+ {'review': "The internet work all. The bus bit dirty, nice time driver. He might fun. The guy checks tickets might bit rude, don't take personally answers bad comment.They punctual travel safe.", 'stars': '4'}
+ {'review': 'Fantastic drivers, nice travel WiFi 1/3 travel! Keep good work try improve internet connection side!', 'stars': '4'}
+ {'review': 'An enjoyable ride despite long hours -- two professional drivers, 10-minute rest stop three hours trip, clean coach recently put service, reliable wifi overhead obstruction & early arrival terminus boot.The toilet, however, lacking toilet paper well rinsing water.', 'stars': '4'}
+ {'review': 'Good clean buses plenty legroom.fast Internet actually worked compared Eurolines!Only downside baggage tags dont proof bag goes missing.', 'stars': '4'}
+ {'review': 'Nothing else add.', 'stars': '4'}
+ {'review': 'Almost everything good trip I recommend it, I issue one drivers failed announcements I idea toilet internet. Internet important, I really use toilet even I asked driver failed mention first time toilet board.2 hours later second question lead tell one board ...', 'stars': '4'}
+ {'review': 'Value money ride cost-conscious. Ride safe comfortable.', 'stars': '4'}
+ {'review': 'Pros: Cheap fares, CO2 neutral option, punctuality App userfriendly.Cons: The app could helpful features added, geolocalisation bus facilitate wifi connection bus. The sits comfortable 2 3 hours ride', 'stars': '4'}
+ {'review': "The bus n driver OkayBut must look passenger's behaviour (talking loudly middle night)", 'stars': '4'}
+ {'review': 'Trip went well, driver started boarding 15 mins departure despite negative temperature wind outside... really cold wait.', 'stars': '4'}
+ {'review': 'Good drive schedule', 'stars': '4'}
+ {'review': 'There wi-fi bus really big deal. Driver great; funny friendly. The toiler awfully dirty ans floors. Bus arrived time journey pleasant.', 'stars': '4'}
+ {'review': 'Clean comfortable coach ran perfectly time well driven. We confusion airport regarding terminals driver unable help English.', 'stars': '4'}
+ {'review': 'Is safe interesting travelling Flixbus. But I would like see screen inside bus show direction going(like google map see flights) indicating stops. It beautiful unique.', 'stars': '4'}
+ {'review': "Also, warn bus doesn't power outlets, otherwise great service", 'stars': '4'}
+ {'review': 'Comfortable journey nice bus trip. Just beep sound coming one device bus little annoying.', 'stars': '4'}
+ {'review': 'Polski bus smooth, although seats cramped. The flixbus coaches spacious. Both coaches comfortable enough get sleep journey', 'stars': '4'}
+ {'review': 'nice politer driver', 'stars': '4'}
+ {'review': 'The best service Germany Prague bus. Safety driving puncual.Wim Srinuree & Family(Thailand)', 'stars': '4'}
+ {'review': 'I stasfied journey bus .. staff friendly.. drove safely .. delaying arrived time ... thank , I planning travel bus again.', 'stars': '4'}
+ {'review': 'I choose flixbus next time!', 'stars': '4'}
+ {'review': 'the service good respect time. recommend it.', 'stars': '4'}
+ {'review': 'Driver experience ride smooth . Toilet clean .', 'stars': '4'}
+ {'review': 'Many passengers occupy one seat book, night trips difficult find free seats.', 'stars': '4'}
+ {'review': "The bus 25 min late notified via sms good. The internet little slow it's better nothing.", 'stars': '4'}
+ {'review': 'Thank pleasant journey. I recommend bus service friends.', 'stars': '4'}
+ {'review': 'OK maybe next time better .', 'stars': '4'}
+ {'review': 'Except mentioned stop Bergamo experience brilliant: comfortable bus, good internet, helpfull driver', 'stars': '4'}
+ {'review': 'Flixbus good way travel Europe, however drivers could make announcements also English Wi-Fi connection could improved expressed limits utilization.', 'stars': '4'}
+ {'review': 'Flixbus excellent service providing buses may cities extremely reasonable fares.', 'stars': '4'}
+ {'review': 'Overall, experience could perfect passengers well informed delays SMS people stucked cold!', 'stars': '4'}
+ {'review': "please check internet connection, i've three times flixbus cannot use internet :(", 'stars': '4'}
+ {'review': "Generally, it's good choice use flixbus.", 'stars': '4'}
+ {'review': 'very good bus routine.', 'stars': '4'}
+ {'review': "Price okay, internet really bad maybe temporary problem don't know, punctuality also bad, general; it's preferable may best choice", 'stars': '4'}
+ {'review': 'Good driver, clean bus, fast trip, expensive.', 'stars': '4'}
+ {'review': 'Excellent experience', 'stars': '4'}
+ {'review': 'it overall good experience', 'stars': '4'}
+ {'review': "I enjoyed time bus. The driver kind actually spoke English bus didn't speak German! I really appreciated that.", 'stars': '4'}
+ {'review': 'It quick journey Strasbourg. The bus bit late worried got time Strasbourg bus driver friendly helpful.', 'stars': '4'}
+ {'review': "Wifi wasn't working all", 'stars': '4'}
+ {'review': 'My first experience Flixbus really good.', 'stars': '4'}
+ {'review': 'Except punctuality, everything else good.', 'stars': '4'}
+ {'review': 'great service, good experience, good price', 'stars': '4'}
+ {'review': "We enjoyed journey Flixbus, little worried bus late wasn't way finding information out.", 'stars': '4'}
+ {'review': 'In general, I good experience FlixBus. The app friendly easy use.', 'stars': '4'}
+ {'review': "The bus time, even tho I didn't speak driver's language I doubts resolved. Except traffic route, time. The thing bothered size seats. Very little space seat seat front.", 'stars': '4'}
+ {'review': 'Great ride astonishing views.', 'stars': '4'}
+ {'review': 'Good lake see soon Flixbus.', 'stars': '4'}
+ {'review': 'All all, good experience, bus really organized time.', 'stars': '4'}
+ {'review': "I personally prefer travelling train (less pollution, seating space, drops cities' centers) I admit journey almost perfect. I would appreciated made 15 min stop autogrill eat/rest/toilette.", 'stars': '4'}
+ {'review': "It's second time I use Flixbus trip (Bologna-Pescara), staff always nice answering questions, arrived almost time (that trivial trip Italy), electrical current worked well.The two negative things I found were:- internet connection work (and passengers weren't able connect, connection undersized);- small tables behind seats small bent, useless I could use them. I hold laptop leg trip.", 'stars': '4'}
+ {'review': 'Overall service punctual. BUS CLEAN Goddard recline seats, Toilet facility OK disappointed Wi first, That letdown', 'stars': '4'}
+ {'review': 'The bus departed time, due unexpected traffic jam, arrived destination 30 minutes predicted time.', 'stars': '4'}
+ {'review': 'Comfortable easy book also almost free trip ,it nice company good service', 'stars': '4'}
+ {'review': 'The price competitive train, less hectic. Wifi socket connection marvelous add safe journey. I could book next journey via flix internet.', 'stars': '4'}
+ {'review': 'Flixbus needs adjustments become perfect. Would recommend experience', 'stars': '4'}
+ {'review': 'I enjoyed ride bus clean. However long journey internet.', 'stars': '4'}
+ {'review': 'I rode new comfortable bus good wifi connection, I use flixbus again.', 'stars': '4'}
+ {'review': 'The bus OK price great. If need go somewhere great way go.', 'stars': '4'}
+ {'review': 'Good service, good experience safe ride, clean trustworthy.', 'stars': '4'}
+ {'review': 'Everything good, information needed get bus stop.I definitely recommend it.', 'stars': '4'}
+ {'review': 'We great trip London Brugge. It time even disruption motorway France. Power plugs worked plenty leg room coach', 'stars': '4'}
+ {'review': "It nice ride overall. We got Freiburg time, even though passage Rust slow. It's bit hard find bus boarding, stops don't correspond routes, go check every bus see it's one you're supposed take. Other that, ok.", 'stars': '4'}
+ {'review': 'The bus late wasnt sure would make next one must handle missing bus. There info application', 'stars': '4'}
+ {'review': "I travelled Dresden Prague using bus quite pleasant experience. We used double decker bus. The bus Dresden 15 minutes late one Prague wasn't. The wifi worked well although somehow stopped working we're Czech (but return journey worked perfectly fine). Overall, worth money.", 'stars': '4'}
+ {'review': "If want time, without additional savings - choose bus trip. If - it's quite good service.", 'stars': '4'}
+ {'review': 'comfortable trip , felt like using airplane ..', 'stars': '4'}
+ {'review': 'Enjoyed Travel using WiFi.,but uncomfortablebecause small space within Seats.', 'stars': '4'}
+ {'review': 'A good cheap nice way travel bus.', 'stars': '4'}
+ {'review': 'The Flixbus service really good - pricing good value too.They could provide clearer signage Franfurt T2 go Flixbus pickup points.', 'stars': '4'}
+ {'review': 'It pleasant experience. But know, long trip literally deserved Internet!', 'stars': '4'}
+ {'review': 'Good value comfortable service seat power supply good wifi', 'stars': '4'}
+ {'review': '1- didnt wifi connection inside germany,after poland board, polskibus,internet poor low speed,in germany,no wifi data, till berline, berlin hamburg flexibus, wc wifi bus, drinking water inside bus.2- drivers speaks route polish germany didnt understand say,for example long tjey stay stops,or close seat belt!!!! This type information english too. And sometimes dangerous passnager donot understamd close seat belt RegardsIman', 'stars': '4'}
+ {'review': 'acceptable service price.needs improve internet connection.needs adjust travel time', 'stars': '4'}
+ {'review': 'Flixbus consists different suppliers, provide busses. That said experience may vary nice awful. This one nice, another trip horrific. Treat like unknown bus ride, depends luck.', 'stars': '4'}
+ {'review': 'Unfortunately bus came delay 15 minutes. We need wait street rain. No SMS delay received', 'stars': '4'}
+ {'review': 'i fell asleep soundly woke destination', 'stars': '4'}
+ {'review': 'Bus driver (or assistant) announce English. Only German used throughout trip. For people like speak German, annoying able understand announcements.', 'stars': '4'}
+ {'review': 'No wifi info departure intermediate destinations one mine.', 'stars': '4'}
+ {'review': 'Good connections, decent price helpful stuff. If punctuality better, I would completely satisfied.', 'stars': '4'}
+ {'review': "Booking home simple. Not speaking German made slightly difficult finding correct bus stop knowing driver saying en route. Bus half hour late arriving departure received text informing us didn't worry. Final arrival time hour later expected made slightly stressful I felt I inconveniencing host apartment staying at. Overall good value way travelling I would recommend it.", 'stars': '4'}
+ {'review': "I would repeat sure, I know punctuality won't necessarily happen.", 'stars': '4'}
+ {'review': 'Decent treatment little friction', 'stars': '4'}
+ {'review': 'Apart electricity socket work way Brussels help save smarphone battery, first journey company, convinced renew experience you.The four drivers I met travelling Flixbus efficient available answer specific question.On whole I satisfied service.', 'stars': '4'}
+ {'review': 'The bus clean, English announcement better', 'stars': '4'}
+ {'review': 'A company trust', 'stars': '4'}
+ {'review': 'Best alternate Air Train watching landscape countryside Europe. Very Affordable price also free Wi-Fi.', 'stars': '4'}
+ {'review': 'Could given 5 bus late arrived destination 2 hours late.', 'stars': '4'}
+ {'review': 'Positive: Fast,Comfy cheapNegative:Was missing entertainment English Italian, driver launched luggage violently bus :(', 'stars': '4'}
+ {'review': 'Great service, would definitely recommend', 'stars': '4'}
+ {'review': 'i would like service number advice travel make informed choice trip !', 'stars': '4'}
+ {'review': 'Everything bus journey great except fact bus 30 mins late due construction city. The problem notified neither via SMS information bus stop.', 'stars': '4'}
+ {'review': 'We started trip 10 min later arrived 10-15 min later.We got also stuck Milan traffic "Circonvallazione" 40 min. This first time I travelled way. I used companies drove faster tracks. Really strange different way', 'stars': '4'}
+ {'review': "In opinion, FlixBus services good, nice friendly drivers/ coach, punctuality, safety, clinliness, etc. In next trip Europe i'll definitely use FlixBus travel among Euro countries.M.Yarmohamadi", 'stars': '4'}
+ {'review': 'All gooooooooooooodddddddddd!!!!', 'stars': '4'}
+ {'review': 'Very punctual. Good driving. Please something make wifi work!', 'stars': '4'}
+ {'review': 'Highly recommended bus: fast, cheap convenient!', 'stars': '4'}
+ {'review': 'FlixBus nice service', 'stars': '4'}
+ {'review': 'Easy enough find help Hotel staff. Not hard book trip charge advance. No internet service trip even though supposed available. Driver spoke limited English enough get job done!', 'stars': '4'}
+ {'review': "The trip cool considering distance price I paid....it's really worth it", 'stars': '4'}
+ {'review': 'No information Bus Stop departure makes restless first time users. please establish information system passengers relax.WiFi working. please correct it.Toilet working please take care it.', 'stars': '4'}
+ {'review': 'I give advice people travel bus Europe use service future', 'stars': '4'}
+ {'review': "Toilet wasn't working, internet (not connection, WiFi hotspot missing)", 'stars': '4'}
+ {'review': 'It please ® journey problems all.', 'stars': '4'}
+ {'review': 'The bus 30 min late I got text hours let know that. We left 50 min set time. The toilet broken entertainment snacks (our ride 11hrs long) wifi great, super fast, limited 1,5-2hrs I teached limit wifi rest trip. The price good driving too.', 'stars': '4'}
+ {'review': 'I booked trip Brussels Mainz. There direct bus, I change Leverkusen Mitte. I spontaneously decided trip, I booked 3 days departure. Usually, I use train, situation I wanted try bus discover one city way Mainz. Of course, I realized Leverkusen best choice. The trip well priced, I paid around 40 EUR, relatively around 10 per bus I used. Starting Brussels Leverkusen Mitte(the first bus), everything fine. I try wi-fi first bus. However, I like second part trip Leverkusen Mitte Mainz, delay. This something blame company for. They send two messages bus late 50 minutes 75 minutes. The bus arrived 105 minutes delay. The wi-fi one extremely slow, even though people sleeping. I 2 seats away toilet, smelling unfortunately. The driver worst experience trip. I aware many breaks usually driver do, one 20 minutes 5 minutes 200km. He even got confused Wiesbaden went wrong direction caused even bigger delay. On way back everything good. The drivers nice, especially Leverkusen Brussels. The wi-fi working good. There even coffee machine bus, I think coffee free, I sure. Overall I would grade company 7 10. The advantages free wi-fi, good price/quality, relatively new buses, many ppl, 3 4 journeys I sitting alone, plenty space seats.Disadvantages - driver second bus, maintenance issues like lamps missing air-conditioning turned put something hole order stop cool stream.', 'stars': '4'}
+ {'review': 'Had comfortable travel. The Driver cool & friendly, air conditioned worked well, bus neat. Overall good experience Flexibus. Will travel again. I think matters lot Driver behaves, entire journey kind host.', 'stars': '4'}
+ {'review': 'Well, toilet internet rest fine. Driver friendly...', 'stars': '4'}
+ {'review': 'Will definitely travel flixbus again.', 'stars': '4'}
+ {'review': 'It great journey Cologne Zurich, time without hiccups.', 'stars': '4'}
+ {'review': 'Good service time punctuality, Can booked without problem', 'stars': '4'}
+ {'review': 'Very good places, comfortable, stress luggage stowing.', 'stars': '4'}
+ {'review': 'I decided use FlixBus get back Hamburg instead taking train one fourth price train ride. The bus clean, seats reasonably comfortable ride ended shorter originally anticipated, shorter train ride too. Only thing I could think criticize unpleasant smell coach restroom.', 'stars': '4'}
+ {'review': 'it punctual, best feature', 'stars': '4'}
+ {'review': 'Good company details improve cleaning toilet Wi Fi connection work moment.', 'stars': '4'}
+ {'review': "It wa great although couldn't use wifi.", 'stars': '4'}
+ {'review': 'I really nothing say, driver point book, ride fine.', 'stars': '4'}
+ {'review': "It's nice clean bus wifi toilet. However legroom short, even short girl like felt little uncomfortable. The seat assigned accordingly able choose seat online booking first come first serve basis. I group 4 sit separated long journey. It doesn't felt good sit sleep beside strangers.", 'stars': '4'}
+ {'review': "My first time Flixbus late 40 min. I told passengers usually don't happen.This particular bus didn't charging point battery, one had. The Internet good often stops working.The bus clean comfortable. The driver knows basic English.", 'stars': '4'}
+ {'review': 'Wonderful overall experience', 'stars': '4'}
+ {'review': 'I used service travel Prague Dresden & back.Buses comfortable, also Wi-Fi possibility watch films, listen music special site.The disadvantage punctuality. First time bus came 15 min later, second - 30 min later.', 'stars': '4'}
+ {'review': 'The bus time driver grate.Only thing missed comfort, seats appropriate trip.', 'stars': '4'}
+ {'review': 'Comfortable internet connection promised', 'stars': '4'}
+ {'review': 'The travel nice, without worries multiple changes train and/or flight. The thing bus sensitive traffic jam, especially arriving big cities, might get delayed sometimes.', 'stars': '4'}
+ {'review': '1. Booking website great important. We find cheap ticket.2. My seat near/ toilet. It smelly trip. Need improve system.3. It better English announcement coach tourists.', 'stars': '4'}
+ {'review': 'Very good excellent services. reliable', 'stars': '4'}
+ {'review': 'Please check internet connections', 'stars': '4'}
+ {'review': 'I liked travelling Flixbus. The drivers nice friendly, coach lot facilities confortable.', 'stars': '4'}
+ {'review': 'Everything great. Driver friendly helpful bags, punctual (even arrive early estimated time). Bus seat comfortable (my trip night Amsterdam Cologne), warm making sleep well. Pleasant journey. Just announcement English really clear still understandable.', 'stars': '4'}
+ {'review': 'I definitely use Flixbus services future. Great price always time. Only thing missing free wifi.', 'stars': '4'}
+ {'review': 'Very punctual comfortable, good wifi.', 'stars': '4'}
+ {'review': 'punctualeasily find buscomfortable busgood locationpoor internet', 'stars': '4'}
+ {'review': 'Arrival Departure time, trip quite good due comfortable seats. No internet connection made little bit upset. Tried 3 devices followed instructions connect internet, working. Since overnight journey, I guess support available this.', 'stars': '4'}
+ {'review': 'Friendly driver, clean seats comfortable ride', 'stars': '4'}
+ {'review': 'We arrived even earlier planned bus driver really Friendly!', 'stars': '4'}
+ {'review': 'Excellent trip bus time departure arrival stations .A driver gentle happy person..He kind informed us beginning trip everything like time,traffic,toilet,snacks etc end reminded us could go Amsterdam centraalwith metro ,buses,tram .If would like taste sth drink sth else ,there many kinds snaks beverages first seats good prices.The problem internet connection ..!!', 'stars': '4'}
+ {'review': 'Travelled Flixbus first time, Amsterdam Brussels back. I certainly recommend it. Both ways, ride comfortable: enough leg space, good seats, easy check procedure. Both times left little late, still arrived scheduled time. Probably helped weekend. On way Brussels driver friendly gave lot information bus clean. The downside wifi work.On way back, get much information, still trash bus previous ride. On upside, wifi work.', 'stars': '4'}
+ {'review': 'the trip good cheap compared companies', 'stars': '4'}
+ {'review': "I booked return trip Brussels weekend. It costed less half would cost train tickets (booked 2 months advance), I booked one week advance.The bus bit late arriving Arnhem. But due traffic carnival weekend. The trip took 3 half hours, gave time charge phone whilest taking nap. We arrived Brussels time. On return trip bus 40 minutes early, left schedule. Overal excellent trip. Great USB-ports bus. And soon wifi. I would recommend Flixbus anyone wants travel neighbouring country, may take little longer going train. But it's great value money comfortable compared train travel airplane.", 'stars': '4'}
+ {'review': 'Perfectly punctual, good driving, comfortable seating wifi, good value money.', 'stars': '4'}
+ {'review': 'Punctual comfortable', 'stars': '4'}
+ {'review': "It good experience, Internet connection excellent, arrived time final destination, left Bremen bus late like 30 minutes I transfer Hamburg I afraid I wouldn't make negative thing whole journey", 'stars': '4'}
+ {'review': 'Good overall, took us destination smoothly.', 'stars': '4'}
+ {'review': 'And also would great hear English contact phones ;)', 'stars': '4'}
+ {'review': 'fix WIFI buses', 'stars': '4'}
+ {'review': 'Boarding smooth, ride nice, noisy. Narrow seats, ample leg room people tall (with flip foot rest). Two problems: I never able connect advertised free WiFi, issue I wanted work required internet connection. Also, toiletpaper toilet! Otherwise good. I would try again.', 'stars': '4'}
+ {'review': "I traveled Flix Bus friend mine recommended wasn't bad all..Moreover fare affordable", 'stars': '4'}
+ {'review': 'it good fully seat space WIFI working well... long way, sometimes feel cold', 'stars': '4'}
+ {'review': 'This first time using Eindhoven - Groningen service, according expectations. We minor delay five minutes, problem. All good experience, service I would use often.', 'stars': '4'}
+ {'review': 'Good Service Great price.', 'stars': '4'}
+ {'review': 'Best bus service germany!', 'stars': '4'}
+ {'review': "I love travelling meinfernbus flixbus. The price good, quality also. Unfortunately WIFI really working, still, comfort good, you're able charge phone bus drivers nice courteous. There's better price-performance ratio market meinfernbus Flixbus. Anytime again!", 'stars': '4'}
+ {'review': 'Always good experience. Sometimes traffic pain bus packed people need change schedules, sadly. Control tickets identity better still never wifi available&working (so would best flixbus stopped announcing advertising accurate)', 'stars': '4'}
+ {'review': 'Hello, girlfriend I used Flixbus many times always amazed low price travel, variety destinations available - even "not popular" tourist locations.I know difficult plan delays road, would nice receive estimation delay (from previous trip statistics) app day travel - ensure traveller could plan connection little accurately.', 'stars': '4'}
+ {'review': "I made several journeys using Flixbus found cheap, reliable, user friendly. I liked fact prices dramatically increase closer departure time. Services generally time (one exception I travelled Brussels 45 minute delay caused traffic rush hour).The thing I would like change rebookings. I would like able change/rebook App possible via website. I would also like could replace '15 minute departure' rule rebooking.", 'stars': '4'}
+ {'review': 'Bus time arrived time well.Problem board WLAN disconnected working.Clean bus drive smooth calm.Recommended travelers.', 'stars': '4'}
+ {'review': "But applies almost bus drivers I've seen before, probably trade disease.", 'stars': '4'}
+ {'review': "Usually often time, ok. Great experience travelling Flixbus; advantage avoid changing many times means transport also help save money. The confort also ok good network Europe. N'winitcha", 'stars': '4'}
+ {'review': "Flix bus cheap services tend pretty regular. It's sad offer wifi refreshments 9/10 buses I've neither. Sometimes announcements often not, especially delays good travelers connectind buses, transport. Overall flix good price, comfort cleanliness bus offers extras never flows offers.", 'stars': '4'}
+ {'review': "I travel regularly Antwerp Amsterdam find travelling FlixBus great alternative train travel. It's reliable, comfortable inexpensive. Highly recommended.", 'stars': '4'}

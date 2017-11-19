@@ -3,7 +3,7 @@ import io
 
 #nltk.download('punkt')
 #nltk.download('averaged_perceptron_tagger')
-f = io.open('alldata.txt', 'rU', encoding='utf-8')
+f = io.open('flixbus_review_filtered_rate_1.txt', 'rU', encoding='utf-8')
 lines = f.read() 
 lines = lines.lower()
 words = nltk.word_tokenize(lines) 
@@ -12,7 +12,7 @@ taggedWords = nltk.pos_tag(words)
 
 
 #print(list(nltk.bigrams(words)))
-adjectiveList = {word for word, pos in taggedWords if pos.startswith('JJ')}
+adjectiveList = {word for word, pos in taggedWords if pos.startswith('NN') or pos.startswith('JJ')}
 adjectiveList = [word.lower() for word in adjectiveList]
 
 #pairs=nltk.bigrams(words)
@@ -28,5 +28,5 @@ adjectiveList = [word.lower() for word in adjectiveList]
 fdist = nltk.FreqDist(adjectiveList)
 
 
-for word, frequency in fdist.most_common(20):
+for word, frequency in fdist.most_common(60):
 	print(u'{} - {}'.format(word, frequency))
