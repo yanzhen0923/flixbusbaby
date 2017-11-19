@@ -51,20 +51,22 @@ def countWordOcc(file, featureList):
         
     #length = len(words)
     average = 200000 / 3074
-    with open(file) as f:
-        for line_count, l in enumerate(f):
-            pass
-    line_count += 1
-    length = line_count * average
-    percent_cnt = Counter()
-    for word in featureList:
-        #print(cnt[word])
-        percentage = (cnt[word] / length) * 100
-        percent_cnt[word] = percentage
-
+    #with open(file) as f:
+    #    for line_count, l in enumerate(f):
+    #        pass
+    #line_count += 1
+    #length = line_count * average
+   # percent_cnt = Counter()
+   # for word in featureList:
+   #     #print(cnt[word])
+   #     percentage = (cnt[word] / length) * 100
+   #     percent_cnt[word] = percentage
     print(cnt)
-    print(percent_cnt)
 
 
-
-countWordOcc("megabus.txt", features)
+#countWordOcc("megabus.txt", features)
+countWordOcc("flixbus_review_filtered_rate_1.txt", features)
+#countWordOcc("flixbus_review_filtered_rate_2.txt", features)
+#countWordOcc("flixbus_review_filtered_rate_3.txt", features)
+#countWordOcc("flixbus_review_filtered_rate_4.txt", features)
+#countWordOcc("flixbus_review_filtered_rate_5.txt", features)
