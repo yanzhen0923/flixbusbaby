@@ -1,19 +1,22 @@
 import nltk
 import io
+import re
+from collections import Counter
 
+## Irrelevant stuff ##
 #nltk.download('punkt')
 #nltk.download('averaged_perceptron_tagger')
-f = io.open('flixbus_review_filtered_rate_1.txt', 'rU', encoding='utf-8')
-lines = f.read() 
-lines = lines.lower()
-words = nltk.word_tokenize(lines) 
+#f = io.open('alldata.txt', 'rU', encoding='utf-8')
+#lines = f.read() 
+#lines = lines.lower()
+#words = nltk.word_tokenize(lines) 
 
-taggedWords = nltk.pos_tag(words)
+#taggedWords = nltk.pos_tag(words)
 
 
 #print(list(nltk.bigrams(words)))
-adjectiveList = {word for word, pos in taggedWords if pos.startswith('NN') or pos.startswith('JJ')}
-adjectiveList = [word.lower() for word in adjectiveList]
+#adjectiveList = {word for word, pos in taggedWords if pos.startswith('JJ')}
+#adjectiveList = [word.lower() for word in adjectiveList]
 
 #pairs=nltk.bigrams(words)
 #bigram_measures = nltk.collocations.BigramAssocMeasures()
@@ -25,8 +28,28 @@ adjectiveList = [word.lower() for word in adjectiveList]
 
 #print(pairs)
 
-fdist = nltk.FreqDist(adjectiveList)
+#fdist = nltk.FreqDist(adjectiveList)
 
 
-for word, frequency in fdist.most_common(60):
-	print(u'{} - {}'.format(word, frequency))
+#for word, frequency in fdist.most_common(20):
+#	print(u'{} - {}'.format(word, frequency))
+##END of irrelevant stuff##
+
+#Feature list expected by countWordOcc
+features = ["wifi", "driver", "toilet"]
+
+#Function to count the occurrence of a list of words in the data
+def countWordOcc(file, featureList):
+
+	cnt = Counter()
+	words = re.findall('\w+', open(file).read().lower())
+
+	for word in words:
+		if word in featureList and len(word) > 1:
+			cnt[word] += 1
+
+	print cnt
+
+
+
+countWordOcc("flixbus_review_rate_1.txt", features)
